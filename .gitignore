@@ -1,0 +1,5 @@
+node_modules/
+tts/*.onnx
+tts/*.bin
+tts/sample_*.wav
+.DS_Store

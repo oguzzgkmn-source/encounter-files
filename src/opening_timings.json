@@ -1,0 +1,65 @@
+{
+ "duration": 24.905,
+ "lines": [
+  {
+   "id": "s1",
+   "text": "Sea of Cortez. Midnight.",
+   "start": 0.6,
+   "end": 2.392
+  },
+  {
+   "id": "s2",
+   "text": "You're twelve metres down, and your torch is the only light in the water.",
+   "start": 2.892,
+   "end": 7.184
+  },
+  {
+   "id": "s3",
+   "text": "Then the beam catches something.",
+   "start": 7.784,
+   "end": 9.425
+  },
+  {
+   "id": "s4",
+   "text": "One shape.",
+   "start": 9.925,
+   "end": 10.786
+  },
+  {
+   "id": "s5",
+   "text": "Then ten.",
+   "start": 11.136,
+   "end": 11.987
+  },
+  {
+   "id": "s6",
+   "text": "Then too many to count.",
+   "start": 12.337,
+   "end": 13.732
+  },
+  {
+   "id": "s7",
+   "text": "And every single one of them... is turning red.",
+   "start": 14.332,
+   "end": 17.16
+  },
+  {
+   "id": "s8",
+   "text": "The fishermen here have a name for them.",
+   "start": 18.06,
+   "end": 20.403
+  },
+  {
+   "id": "s9",
+   "text": "Diablo rojo.",
+   "start": 20.703,
+   "end": 21.943
+  },
+  {
+   "id": "s10",
+   "text": "The red devil.",
+   "start": 22.343,
+   "end": 23.305
+  }
+ ]
+}
