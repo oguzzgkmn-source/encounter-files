@@ -12,12 +12,15 @@
 - `out/thumbnail-B.png` — dev kırmızı kalamar feneri tutan dalgıca atılıyor, "THE RED DEVIL"
 - Öneri: YouTube'un **Test & Compare** özelliğiyle ikisini A/B test et.
 
-## Açıklama (kopyala-yapıştır)
+## Ortak açıklama (3 varyant için de geçerli, kopyala-yapıştır)
 ```
-It hunts in the dark, in groups of hundreds, and flashes red when it gets excited. Fishermen call it diablo rojo, the red devil. But how dangerous is the Humboldt squid, really?
+It hunts at night, in groups that can number in the hundreds, and its whole body flashes red when it gets excited. Fishermen in the Sea of Cortez call it diablo rojo: the red devil.
 
-In Encounter File #001 we go night diving in the Sea of Cortez: the squid's jet-powered speed, suckers ringed with teeth, the squid-cam study that revealed why they flash red, diver Scott Cassell's first-hand accounts, the 2009 San Diego squid invasion, what you should actually do if you're surrounded, and the twist nobody talks about.
+So how dangerous is the Humboldt squid, really?
 
+In Encounter File #001 we drop you into a night dive twelve metres down, with your torch as the only light in the water. We break down the jet-powered speed, the suckers ringed with tiny teeth and the parrot-like beak. We look at the squid-cam study that revealed why they flash red, diver Scott Cassell's first-hand accounts, and the summer thousands of jumbo squid showed up off San Diego. Then: what you should actually do if you're surrounded, and the twist almost nobody talks about.
+
+⏱ CHAPTERS
 0:00 The red devil
 0:57 Encounter File #001
 1:51 Speed, grip and a blade
@@ -27,18 +30,30 @@ In Encounter File #001 we go night diving in the Sea of Cortez: the squid's jet-
 7:15 The twist
 8:49 Back to the water
 
-Which animal should we open in Encounter File #002? Tell me in the comments.
+💬 Which animal should we open in Encounter File #002? Tell me in the comments. I read every single one.
 
-Sources:
-- Rosen et al. (2015), Chromogenic behaviors of the Humboldt squid, Journal of Experimental Biology
-- Oceana — Humboldt squid species profile
-- ABC7 interview with Scott Cassell
-- Christian Science Monitor / ABC News coverage of the 2009 San Diego squid event
-- NOAA SWFSC / CalCOFI (Bograd et al. 2013) on range expansion
-- IMARPE (Peru) jumbo squid landings data
+📚 SOURCES
+• Rosen et al. (2015). Chromogenic behaviors of the Humboldt squid (Dosidicus gigas) studied in situ with an animal-borne video package. Journal of Experimental Biology.
+• Benoit-Bird & Gilly (2012). Acoustic study of Humboldt squid foraging behaviour.
+• Oceana: Humboldt squid species profile.
+• ABC7: interview with diver Scott Cassell.
+• Christian Science Monitor & ABC News (July 2009): jumbo squid in shallow water off San Diego.
+• Bograd et al. (2013), NOAA SWFSC / CalCOFI: range expansion and low-oxygen zones.
+• IMARPE (Peru): jumbo squid landings data.
 
-All animation is original. Voice: AI narration.
+Legends in this video are clearly marked as unverified. There is no confirmed case of a Humboldt squid killing a human.
+
+🎬 All animation in this video is original. Narration uses an AI-generated voice.
+
+#humboldtsquid #deepsea #oceananimals
 ```
+
+## A/B testi eşleştirmeleri
+| Varyant | Kapak | Başlık |
+|---|---|---|
+| A | THEY'RE ALL AROUND YOU | Why Divers Fear This Squid More Than Sharks |
+| B | THE RED DEVIL | The Squid That Hunts Divers in Packs |
+| C | WORSE THAN SHARKS? | The Red Devil: The Squid That Turns Red Before It Strikes |
 
 ## Etiketler
 humboldt squid, red devil squid, jumbo squid, diablo rojo, deep sea creatures, ocean animals, scary sea creatures, squid attack, sea of cortez, night dive, marine biology, ocean documentary, animated documentary
