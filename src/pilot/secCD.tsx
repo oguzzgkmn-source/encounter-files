@@ -275,14 +275,15 @@ export const D7: React.FC = () => {
 };
 export const D10: React.FC = () => {
   const {f, at} = useShot();
-  const inView = at('d11', 0.3);
+  const inView = at('d11', 0.05);
   const vis = f > inView;
   const fl = vis ? flash3(f, 0, 3) : 0;
   return (
-    <Shot cam={{s: [1.0, 1.06]}} bg="#000" vignette={0} over={
+    <Shot cam={{s: [1.15, 1.0], x: [120, -60], r: [-3, 2]}} bg="#000" vignette={0} over={
       <>
         <div style={{position: 'absolute', inset: 0, boxShadow: 'inset 0 0 300px 120px #000', borderRadius: '42%'}} />
         <div style={{position: 'absolute', left: 120, top: 90, fontFamily: MONO, fontSize: 32, color: C.white}}><span style={{color: C.red}}>● REC</span>  SQUID-CAM 01</div>
+        {!vis && <div style={{position: 'absolute', left: 0, width: 1920, top: 800, textAlign: 'center', fontFamily: MONO, fontSize: 30, color: C.amber, letterSpacing: 6, opacity: Math.floor(f / 10) % 2 ? 1 : 0.4}}>SCANNING…</div>}
         <div style={{position: 'absolute', right: 120, top: 90, fontFamily: MONO, fontSize: 30, textAlign: 'right'}}>
           <div style={{color: C.grey}}>OTHER SQUID IN VIEW: <span style={{color: vis ? C.sonar : C.grey}}>{vis ? 'YES' : 'NO'}</span></div>
           <div style={{color: C.grey}}>OWN SKIN: <span style={{color: fl > 0.5 ? C.red : C.white}}>{vis ? (fl > 0.5 ? 'RED' : 'WHITE') : 'STEADY'}</span></div>
@@ -292,6 +293,12 @@ export const D10: React.FC = () => {
     }>
       <Water top="#0b1a14" bottom="#020604" />
       <Snow n={140} dim={0.4} />
+      {/* distant squid shapes drifting through the dark while the camera searches */}
+      {[0, 1, 2].map((i) => (
+        <div key={i} style={{opacity: 0.75, filter: 'blur(1.5px)'}}>
+          <Squid2 x={((300 + i * 650 + f * (2.5 + i)) % 2300) - 200} y={300 + i * 190} w={300 - i * 50} lit={0.35} red={flash3(f, i * 2, 2)} flip />
+        </div>
+      ))}
       {vis && <Squid2 x={lerp(f, inView, inView + 40, 2200, 1150, Easing.out(Easing.cubic))} y={500} w={520} lit={0.55} red={flash3(f, 1.5, 3)} flip />}
     </Shot>
   );
