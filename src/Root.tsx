@@ -5,7 +5,9 @@ import {FileCard} from './scenes/FileCard';
 import {Anatomy} from './scenes/Anatomy';
 import {YourMove} from './scenes/YourMove';
 import {Thumbnail} from './scenes/Thumbnail';
+import {Thumb2} from './scenes/Thumb2';
 import {Opening, OPENING_FRAMES} from './opening/Opening';
+import {Pilot, PILOT_FRAMES} from './pilot/Pilot';
 
 const StyleReel: React.FC = () => (
   <Series>
@@ -25,6 +27,8 @@ export const Root: React.FC = () => (
     <Composition id="YourMove" component={YourMove} durationInFrames={210} {...base} />
     <Composition id="StyleReel" component={StyleReel} durationInFrames={890} {...base} />
     <Composition id="Opening" component={Opening} durationInFrames={OPENING_FRAMES} {...base} />
+    <Composition id="Pilot" component={Pilot} durationInFrames={PILOT_FRAMES} {...base} />
+    <Composition id="Thumb2" component={Thumb2} durationInFrames={1} fps={30} width={1280} height={720} />
     <Composition id="Thumbnail" component={Thumbnail} durationInFrames={1} fps={30} width={1280} height={720} />
   </>
 );

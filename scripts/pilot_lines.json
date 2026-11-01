@@ -1,0 +1,854 @@
+[
+ {
+  "id": "s1",
+  "text": "Sea of Cortez. Midnight.",
+  "tts": "Sea of Cortez. Midnight.",
+  "pause": 0.5
+ },
+ {
+  "id": "s2",
+  "text": "You're twelve metres down, and your torch is the only light in the water.",
+  "tts": "You're twelve metres down, and your torch is the only light in the water.",
+  "pause": 0.6
+ },
+ {
+  "id": "s3",
+  "text": "Then the beam catches something.",
+  "tts": "Then the beam catches something.",
+  "pause": 0.5
+ },
+ {
+  "id": "s4",
+  "text": "One shape.",
+  "tts": "One shape.",
+  "pause": 0.35
+ },
+ {
+  "id": "s5",
+  "text": "Then ten.",
+  "tts": "Then ten.",
+  "pause": 0.35
+ },
+ {
+  "id": "s6",
+  "text": "Then too many to count.",
+  "tts": "Then too many to count.",
+  "pause": 0.6
+ },
+ {
+  "id": "s7",
+  "text": "And every single one of them... is turning red.",
+  "tts": "And every single one of them... is turning red.",
+  "pause": 0.9
+ },
+ {
+  "id": "s8",
+  "text": "The fishermen here have a name for them.",
+  "tts": "The fishermen here have a name for them.",
+  "pause": 0.3
+ },
+ {
+  "id": "s9",
+  "text": "Diablo rojo.",
+  "tts": "Diablo rojo.",
+  "pause": 0.4
+ },
+ {
+  "id": "s10",
+  "text": "The red devil.",
+  "tts": "The red devil.",
+  "pause": 1.2
+ },
+ {
+  "id": "a1",
+  "text": "Now, when you picture a dangerous animal in the ocean, you probably picture a shark.",
+  "tts": "Now, when you picture a dangerous animal in the ocean, you probably picture a shark.",
+  "pause": 0.3
+ },
+ {
+  "id": "a2",
+  "text": "One big predator, one set of teeth.",
+  "tts": "One big predator, one set of teeth.",
+  "pause": 0.4
+ },
+ {
+  "id": "a3",
+  "text": "This is different.",
+  "tts": "This is different.",
+  "pause": 0.4
+ },
+ {
+  "id": "a4",
+  "text": "A Humboldt squid isn't a giant. The biggest are about the length of an adult human.",
+  "tts": "A Humboldt squid isn't a giant. The biggest are about the length of an adult human.",
+  "pause": 0.4
+ },
+ {
+  "id": "a5",
+  "text": "But it almost never shows up alone.",
+  "tts": "But it almost never shows up alone.",
+  "pause": 0.3
+ },
+ {
+  "id": "a6",
+  "text": "It hunts in the dark, in groups that can number in the hundreds.",
+  "tts": "It hunts in the dark, in groups that can number in the hundreds.",
+  "pause": 0.3
+ },
+ {
+  "id": "a7",
+  "text": "And when it gets excited, its whole body starts flashing like a warning light.",
+  "tts": "And when it gets excited, its whole body starts flashing like a warning light.",
+  "pause": 0.6
+ },
+ {
+  "id": "a8",
+  "text": "So why do they turn red?",
+  "tts": "So why do they turn red?",
+  "pause": 0.3
+ },
+ {
+  "id": "a9",
+  "text": "Hold that thought. First, let's open the file.",
+  "tts": "Hold that thought. First, let's open the file.",
+  "pause": 0.8
+ },
+ {
+  "id": "b1",
+  "text": "Encounter File number one. Dosidicus gigas.",
+  "tts": "Encounter File number one. Dosiddicus jigass.",
+  "pause": 0.3
+ },
+ {
+  "id": "b2",
+  "text": "The Humboldt squid, sometimes called the jumbo squid.",
+  "tts": "The Humboldt squid, sometimes called the jumbo squid.",
+  "pause": 0.5
+ },
+ {
+  "id": "b3",
+  "text": "It lives in the eastern Pacific, from Chile all the way up to Mexico, and lately, much further north.",
+  "tts": "It lives in the eastern Pacific, from Chile all the way up to Mexico, and lately, much further north.",
+  "pause": 0.4
+ },
+ {
+  "id": "b4",
+  "text": "A big one can have a body about one and a half metres long and weigh around fifty kilograms.",
+  "tts": "A big one can have a body about one and a half metres long and weigh around fifty kilograms.",
+  "pause": 0.3
+ },
+ {
+  "id": "b5",
+  "text": "That's roughly the weight of a large dog, packed into a torpedo of pure muscle.",
+  "tts": "That's roughly the weight of a large dog, packed into a torpedo of pure muscle.",
+  "pause": 0.6
+ },
+ {
+  "id": "b6",
+  "text": "During the day, it's nowhere near you.",
+  "tts": "During the day, it's nowhere near you.",
+  "pause": 0.3
+ },
+ {
+  "id": "b7",
+  "text": "It sits hundreds of metres down, in water so low in oxygen that most fish can't survive there for long.",
+  "tts": "It sits hundreds of metres down, in water so low in oxygen that most fish can't survive there for long.",
+  "pause": 0.3
+ },
+ {
+  "id": "b8",
+  "text": "The squid can. It slows itself down and waits.",
+  "tts": "The squid can. It slows itself down and waits.",
+  "pause": 0.6
+ },
+ {
+  "id": "b9",
+  "text": "Then the sun sets. And the whole population rises.",
+  "tts": "Then the sun sets. And the whole population rises.",
+  "pause": 0.3
+ },
+ {
+  "id": "b10",
+  "text": "Every night, they travel up toward the surface to feed, and by midnight they can be right where a night diver would be.",
+  "tts": "Every night, they travel up toward the surface to feed, and by midnight they can be right where a night diver would be.",
+  "pause": 0.3
+ },
+ {
+  "id": "b11",
+  "text": "Like, say... you.",
+  "tts": "Like, say... you.",
+  "pause": 0.9
+ },
+ {
+  "id": "c1",
+  "text": "So what happens when they get there? Let's go through the equipment.",
+  "tts": "So what happens when they get there? Let's go through the equipment.",
+  "pause": 0.5
+ },
+ {
+  "id": "c2",
+  "text": "First, speed.",
+  "tts": "First, speed.",
+  "pause": 0.3
+ },
+ {
+  "id": "c3",
+  "text": "A Humboldt squid swims by jet propulsion.",
+  "tts": "A Humboldt squid swims by jet propulsion.",
+  "pause": 0.2
+ },
+ {
+  "id": "c4",
+  "text": "It sucks water into its body and blasts it out through a tube called a siphon.",
+  "tts": "It sucks water into its body and blasts it out through a tube called a siphon.",
+  "pause": 0.3
+ },
+ {
+  "id": "c5",
+  "text": "That can push it to over twenty kilometres an hour in short bursts.",
+  "tts": "That can push it to over twenty kilometres an hour in short bursts.",
+  "pause": 0.3
+ },
+ {
+  "id": "c6",
+  "text": "A good swimmer in fins manages maybe three or four.",
+  "tts": "A good swimmer in fins manages maybe three or four.",
+  "pause": 0.3
+ },
+ {
+  "id": "c7",
+  "text": "You are not winning a race here.",
+  "tts": "You are not winning a race here.",
+  "pause": 0.6
+ },
+ {
+  "id": "c8",
+  "text": "Second, the arms.",
+  "tts": "Second, the arms.",
+  "pause": 0.3
+ },
+ {
+  "id": "c9",
+  "text": "Eight arms and two longer tentacles, all covered in suckers.",
+  "tts": "Eight arms and two longer tentacles, all covered in suckers.",
+  "pause": 0.3
+ },
+ {
+  "id": "c10",
+  "text": "And these aren't the soft, rubbery suckers you'd find on an octopus.",
+  "tts": "And these aren't the soft, rubbery suckers you'd find on an octopus.",
+  "pause": 0.2
+ },
+ {
+  "id": "c11",
+  "text": "Each one is ringed with tiny, sharp teeth.",
+  "tts": "Each one is ringed with tiny, sharp teeth.",
+  "pause": 0.3
+ },
+ {
+  "id": "c12",
+  "text": "Once they close on something, they don't slide off. They dig in.",
+  "tts": "Once they close on something, they don't slide off. They dig in.",
+  "pause": 0.6
+ },
+ {
+  "id": "c13",
+  "text": "Third, the beak.",
+  "tts": "Third, the beak.",
+  "pause": 0.3
+ },
+ {
+  "id": "c14",
+  "text": "Right in the middle of all those arms sits a hard, hooked beak, a lot like a parrot's.",
+  "tts": "Right in the middle of all those arms sits a hard, hooked beak, a lot like a parrot's.",
+  "pause": 0.3
+ },
+ {
+  "id": "c15",
+  "text": "It's built to tear flesh into pieces small enough to swallow.",
+  "tts": "It's built to tear flesh into pieces small enough to swallow.",
+  "pause": 0.6
+ },
+ {
+  "id": "c16",
+  "text": "So: speed, grip, and a blade.",
+  "tts": "So: speed, grip, and a blade.",
+  "pause": 0.3
+ },
+ {
+  "id": "c17",
+  "text": "Now multiply it by a few hundred.",
+  "tts": "Now multiply it by a few hundred.",
+  "pause": 0.6
+ },
+ {
+  "id": "c18",
+  "text": "These squid don't just happen to be in the same place.",
+  "tts": "These squid don't just happen to be in the same place.",
+  "pause": 0.2
+ },
+ {
+  "id": "c19",
+  "text": "Sonar studies suggest they may actually coordinate when they hunt at night.",
+  "tts": "Sonar studies suggest they may actually coordinate when they hunt at night.",
+  "pause": 0.3
+ },
+ {
+  "id": "c20",
+  "text": "Which brings us back to that question.",
+  "tts": "Which brings us back to that question.",
+  "pause": 0.9
+ },
+ {
+  "id": "d1",
+  "text": "Why do they turn red?",
+  "tts": "Why do they turn red?",
+  "pause": 0.5
+ },
+ {
+  "id": "d2",
+  "text": "To find out, scientists did something slightly unhinged.",
+  "tts": "To find out, scientists did something slightly unhinged.",
+  "pause": 0.3
+ },
+ {
+  "id": "d3",
+  "text": "They strapped cameras onto live Humboldt squid and released them back into the sea.",
+  "tts": "They strapped cameras onto live Humboldt squid and released them back into the sea.",
+  "pause": 0.3
+ },
+ {
+  "id": "d4",
+  "text": "A squid-cam.",
+  "tts": "A squid cam.",
+  "pause": 0.6
+ },
+ {
+  "id": "d5",
+  "text": "What they saw was this.",
+  "tts": "What they saw was this.",
+  "pause": 0.3
+ },
+ {
+  "id": "d6",
+  "text": "The squid's skin is packed with tiny colour cells, and in this species, they come in just one colour: red.",
+  "tts": "The squid's skin is packed with tiny colour cells, and in this species, they come in just one colour: red.",
+  "pause": 0.3
+ },
+ {
+  "id": "d7",
+  "text": "Expand them, and the squid goes deep red.",
+  "tts": "Expand them, and the squid goes deep red.",
+  "pause": 0.2
+ },
+ {
+  "id": "d8",
+  "text": "Squeeze them shut, and it turns pale white.",
+  "tts": "Squeeze them shut, and it turns pale white.",
+  "pause": 0.2
+ },
+ {
+  "id": "d9",
+  "text": "And it can switch between the two several times a second.",
+  "tts": "And it can switch between the two several times a second.",
+  "pause": 0.6
+ },
+ {
+  "id": "d10",
+  "text": "Here's the interesting part.",
+  "tts": "Here's the interesting part.",
+  "pause": 0.3
+ },
+ {
+  "id": "d11",
+  "text": "The flashing almost always happened when other squid were in view.",
+  "tts": "The flashing almost always happened when other squid were in view.",
+  "pause": 0.3
+ },
+ {
+  "id": "d12",
+  "text": "The researchers think it's a signal, a way for squid to talk to each other in the dark.",
+  "tts": "The researchers think it's a signal, a way for squid to talk to each other in the dark.",
+  "pause": 0.3
+ },
+ {
+  "id": "d13",
+  "text": "They can even change the speed and the strength of the flashing.",
+  "tts": "They can even change the speed and the strength of the flashing.",
+  "pause": 0.6
+ },
+ {
+  "id": "d14",
+  "text": "So when the water around you turns into a field of flashing red, you're not looking at a warning.",
+  "tts": "So when the water around you turns into a field of flashing red, you're not looking at a warning.",
+  "pause": 0.3
+ },
+ {
+  "id": "d15",
+  "text": "You're looking at a conversation.",
+  "tts": "You're looking at a conversation.",
+  "pause": 0.4
+ },
+ {
+  "id": "d16",
+  "text": "And you have absolutely no idea what's being said.",
+  "tts": "And you have absolutely no idea what's being said.",
+  "pause": 0.3
+ },
+ {
+  "id": "d17",
+  "text": "Which is somehow worse.",
+  "tts": "Which is somehow worse.",
+  "pause": 1.0
+ },
+ {
+  "id": "e1",
+  "text": "Okay. So they're fast, they grab, and they talk.",
+  "tts": "Okay. So they're fast, they grab, and they talk.",
+  "pause": 0.3
+ },
+ {
+  "id": "e2",
+  "text": "But has any of this actually been used against people?",
+  "tts": "But has any of this actually been used against people?",
+  "pause": 0.5
+ },
+ {
+  "id": "e3",
+  "text": "Here's where we need to be careful, because this animal attracts a lot of tall tales.",
+  "tts": "Here's where we need to be careful, because this animal attracts a lot of tall tales.",
+  "pause": 0.6
+ },
+ {
+  "id": "e4",
+  "text": "Let's start with the legend.",
+  "tts": "Let's start with the legend.",
+  "pause": 0.3
+ },
+ {
+  "id": "e5",
+  "text": "Fishermen in the Sea of Cortez have long told stories of men who fell overboard at night and were never found, and they blame the red devils.",
+  "tts": "Fishermen in the Sea of Cortez have long told stories of men who fell overboard at night and were never found, and they blame the red devils.",
+  "pause": 0.3
+ },
+ {
+  "id": "e6",
+  "text": "Those stories are old and widely repeated.",
+  "tts": "Those stories are old and widely repeated.",
+  "pause": 0.3
+ },
+ {
+  "id": "e7",
+  "text": "But we found no confirmed case of a Humboldt squid killing a human.",
+  "tts": "But we found no confirmed case of a Humboldt squid killing a human.",
+  "pause": 0.3
+ },
+ {
+  "id": "e8",
+  "text": "So that one goes in the legend pile.",
+  "tts": "So that one goes in the legend pile.",
+  "pause": 0.7
+ },
+ {
+  "id": "e9",
+  "text": "Now, the real accounts.",
+  "tts": "Now, the real accounts.",
+  "pause": 0.5
+ },
+ {
+  "id": "e10",
+  "text": "Scott Cassell is a diver and filmmaker who has spent years diving with Humboldt squid in Mexico.",
+  "tts": "Scott Cassel is a diver and filmmaker who has spent years diving with Humboldt squid in Mexico.",
+  "pause": 0.3
+ },
+ {
+  "id": "e11",
+  "text": "And by his own account, it hasn't always gone well.",
+  "tts": "And by his own account, it hasn't always gone well.",
+  "pause": 0.4
+ },
+ {
+  "id": "e12",
+  "text": "He has said a squid once dragged him down so fast that his eardrum ruptured.",
+  "tts": "He has said a squid once dragged him down so fast that his eardrum ruptured.",
+  "pause": 0.3
+ },
+ {
+  "id": "e13",
+  "text": "He's described having his arm pulled out of its socket.",
+  "tts": "He's described having his arm pulled out of its socket.",
+  "pause": 0.3
+ },
+ {
+  "id": "e14",
+  "text": "And another squid, he says, tore into his scalp.",
+  "tts": "And another squid, he says, tore into his scalp.",
+  "pause": 0.3
+ },
+ {
+  "id": "e15",
+  "text": "Today, he dives with them wearing a custom suit of body armour.",
+  "tts": "Today, he dives with them wearing a custom suit of body armour.",
+  "pause": 0.7
+ },
+ {
+  "id": "e16",
+  "text": "And it's not just one diver.",
+  "tts": "And it's not just one diver.",
+  "pause": 0.3
+ },
+ {
+  "id": "e17",
+  "text": "In the summer of 2009, thousands of jumbo squid suddenly showed up in shallow water off San Diego, near La Jolla, California.",
+  "tts": "In the summer of two thousand and nine, thousands of jumbo squid suddenly showed up in shallow water off San Diego, near La Hoya, California.",
+  "pause": 0.3
+ },
+ {
+  "id": "e18",
+  "text": "Divers reported squid grabbing at their masks, their cameras, and their gear.",
+  "tts": "Divers reported squid grabbing at their masks, their cameras, and their gear.",
+  "pause": 0.2
+ },
+ {
+  "id": "e19",
+  "text": "And some decided to stay out of the water altogether.",
+  "tts": "And some decided to stay out of the water altogether.",
+  "pause": 0.6
+ },
+ {
+  "id": "e20",
+  "text": "But listen to how the scientists described it.",
+  "tts": "But listen to how the scientists described it.",
+  "pause": 0.3
+ },
+ {
+  "id": "e21",
+  "text": "One biologist pointed out that these squid aren't the man-eaters they'd been made out to be.",
+  "tts": "One biologist pointed out that these squid aren't the man-eaters they'd been made out to be.",
+  "pause": 0.3
+ },
+ {
+  "id": "e22",
+  "text": "A lot of the grabbing looked more like curiosity than attack.",
+  "tts": "A lot of the grabbing looked more like curiosity than attack.",
+  "pause": 0.6
+ },
+ {
+  "id": "e23",
+  "text": "Picture an animal that explores the world with arms full of teeth.",
+  "tts": "Picture an animal that explores the world with arms full of teeth.",
+  "pause": 0.3
+ },
+ {
+  "id": "e24",
+  "text": "Curiosity still leaves marks.",
+  "tts": "Curiosity still leaves marks.",
+  "pause": 1.0
+ },
+ {
+  "id": "f1",
+  "text": "So let's put you back in the water.",
+  "tts": "So let's put you back in the water.",
+  "pause": 0.3
+ },
+ {
+  "id": "f2",
+  "text": "Midnight. Twelve metres down. Red flashes all around you.",
+  "tts": "Midnight. Twelve metres down. Red flashes all around you.",
+  "pause": 0.3
+ },
+ {
+  "id": "f3",
+  "text": "Your move.",
+  "tts": "Your move.",
+  "pause": 0.8
+ },
+ {
+  "id": "f4",
+  "text": "Option one. Swim for the surface.",
+  "tts": "Option one. Swim for the surface.",
+  "pause": 0.3
+ },
+ {
+  "id": "f5",
+  "text": "The problem: they're several times faster than you.",
+  "tts": "The problem: they're several times faster than you.",
+  "pause": 0.3
+ },
+ {
+  "id": "f6",
+  "text": "And shooting straight up from depth is one of the most dangerous things a diver can do.",
+  "tts": "And shooting straight up from depth is one of the most dangerous things a diver can do.",
+  "pause": 0.2
+ },
+ {
+  "id": "f7",
+  "text": "A rapid ascent can seriously injure your lungs.",
+  "tts": "A rapid ascent can seriously injure your lungs.",
+  "pause": 0.3
+ },
+ {
+  "id": "f8",
+  "text": "You'd be escaping one danger by swimming into another.",
+  "tts": "You'd be escaping one danger by swimming into another.",
+  "pause": 0.6
+ },
+ {
+  "id": "f9",
+  "text": "Option two. Stay perfectly still.",
+  "tts": "Option two. Stay perfectly still.",
+  "pause": 0.3
+ },
+ {
+  "id": "f10",
+  "text": "Honestly, better.",
+  "tts": "Honestly, better.",
+  "pause": 0.3
+ },
+ {
+  "id": "f11",
+  "text": "But remember, a Humboldt squid investigates with its arms.",
+  "tts": "But remember, a Humboldt squid investigates with its arms.",
+  "pause": 0.2
+ },
+ {
+  "id": "f12",
+  "text": "Staying still might just make you a more interesting thing to touch.",
+  "tts": "Staying still might just make you a more interesting thing to touch.",
+  "pause": 0.6
+ },
+ {
+  "id": "f13",
+  "text": "Option three. Turn off your torch.",
+  "tts": "Option three. Turn off your torch.",
+  "pause": 0.3
+ },
+ {
+  "id": "f14",
+  "text": "This one's tempting.",
+  "tts": "This one's tempting.",
+  "pause": 0.3
+ },
+ {
+  "id": "f15",
+  "text": "And here's a strange fact: squid boats in this part of the world use bright lights to draw squid in at night.",
+  "tts": "And here's a strange fact: squid boats in this part of the world use bright lights to draw squid in at night.",
+  "pause": 0.2
+ },
+ {
+  "id": "f16",
+  "text": "Light really does bring them closer.",
+  "tts": "Light really does bring them closer.",
+  "pause": 0.3
+ },
+ {
+  "id": "f17",
+  "text": "But switch it off, and now you're blind, in the dark, surrounded by animals with huge eyes built for exactly this.",
+  "tts": "But switch it off, and now you're blind, in the dark, surrounded by animals with huge eyes built for exactly this.",
+  "pause": 0.3
+ },
+ {
+  "id": "f18",
+  "text": "They can see you. You can't see them.",
+  "tts": "They can see you. You can't see them.",
+  "pause": 0.6
+ },
+ {
+  "id": "f19",
+  "text": "Option four. Fight back.",
+  "tts": "Option four. Fight back.",
+  "pause": 0.3
+ },
+ {
+  "id": "f20",
+  "text": "With what? Ten arms, hundreds of teeth, and a few hundred friends.",
+  "tts": "With what? Ten arms, hundreds of teeth, and a few hundred friends.",
+  "pause": 0.7
+ },
+ {
+  "id": "f21",
+  "text": "So what do people who dive with them actually do?",
+  "tts": "So what do people who dive with them actually do?",
+  "pause": 0.3
+ },
+ {
+  "id": "f22",
+  "text": "They plan for it.",
+  "tts": "They plan for it.",
+  "pause": 0.3
+ },
+ {
+  "id": "f23",
+  "text": "They dive with protection, stay calm, stay together, and avoid the frenzy around injured or hooked squid, because that's when things get chaotic.",
+  "tts": "They dive with protection, stay calm, stay together, and avoid the frenzy around injured or hooked squid, because that's when things get chaotic.",
+  "pause": 0.3
+ },
+ {
+  "id": "f24",
+  "text": "In other words, the real answer is to never end up alone in that water without a plan.",
+  "tts": "In other words, the real answer is to never end up alone in that water without a plan.",
+  "pause": 1.0
+ },
+ {
+  "id": "g1",
+  "text": "And speaking of injured squid, here's something that might change how you see all this.",
+  "tts": "And speaking of injured squid, here's something that might change how you see all this.",
+  "pause": 0.4
+ },
+ {
+  "id": "g2",
+  "text": "Humboldt squid are cannibals.",
+  "tts": "Humboldt squid are cannibals.",
+  "pause": 0.3
+ },
+ {
+  "id": "g3",
+  "text": "When one gets hurt, say, caught on a fishing line, the others will often turn on it.",
+  "tts": "When one gets hurt, say, caught on a fishing line, the others will often turn on it.",
+  "pause": 0.3
+ },
+ {
+  "id": "g4",
+  "text": "Your fellow red devil is also on the menu.",
+  "tts": "Your fellow red devil is also on the menu.",
+  "pause": 0.6
+ },
+ {
+  "id": "g5",
+  "text": "They also live fast.",
+  "tts": "They also live fast.",
+  "pause": 0.3
+ },
+ {
+  "id": "g6",
+  "text": "Most Humboldt squid only live around a year. Two, if they're lucky.",
+  "tts": "Most Humboldt squid only live around a year. Two, if they're lucky.",
+  "pause": 0.3
+ },
+ {
+  "id": "g7",
+  "text": "Everything you've seen, the speed, the hunting, the flashing, happens in one short, intense life.",
+  "tts": "Everything you've seen, the speed, the hunting, the flashing, happens in one short, intense life.",
+  "pause": 0.6
+ },
+ {
+  "id": "g8",
+  "text": "And they're doing something few animals manage right now. They're expanding.",
+  "tts": "And they're doing something few animals manage right now. They're expanding.",
+  "pause": 0.3
+ },
+ {
+  "id": "g9",
+  "text": "Over the past couple of decades, they've pushed north from Mexico along the coast, all the way to Alaska.",
+  "tts": "Over the past couple of decades, they've pushed north from Mexico along the coast, all the way to Alaska.",
+  "pause": 0.3
+ },
+ {
+  "id": "g10",
+  "text": "One leading idea is that low-oxygen zones in the ocean are spreading, and that's exactly the kind of water this squid can handle and many of its competitors can't.",
+  "tts": "One leading idea is that low-oxygen zones in the ocean are spreading, and that's exactly the kind of water this squid can handle and many of its competitors can't.",
+  "pause": 0.3
+ },
+ {
+  "id": "g11",
+  "text": "The ocean is changing, and this animal seems to be winning.",
+  "tts": "The ocean is changing, and this animal seems to be winning.",
+  "pause": 0.7
+ },
+ {
+  "id": "g12",
+  "text": "But here's the twist.",
+  "tts": "But here's the twist.",
+  "pause": 0.4
+ },
+ {
+  "id": "g13",
+  "text": "For all the stories about the red devil attacking people, the numbers go overwhelmingly the other way.",
+  "tts": "For all the stories about the red devil attacking people, the numbers go overwhelmingly the other way.",
+  "pause": 0.3
+ },
+ {
+  "id": "g14",
+  "text": "Humboldt squid support one of the biggest squid fisheries on the planet.",
+  "tts": "Humboldt squid support one of the biggest squid fisheries on the planet.",
+  "pause": 0.3
+ },
+ {
+  "id": "g15",
+  "text": "In 2014, Peru alone landed more than half a million tonnes of them.",
+  "tts": "In twenty fourteen, Peru alone landed more than half a million tonnes of them.",
+  "pause": 0.3
+ },
+ {
+  "id": "g16",
+  "text": "Even if every single squid were a fifty-kilo giant, that's more than ten million animals in one year, from one country.",
+  "tts": "Even if every single squid were a fifty-kilo giant, that's more than ten million animals in one year, from one country.",
+  "pause": 0.6
+ },
+ {
+  "id": "g17",
+  "text": "If you've ever eaten a squid steak or a plate of calamari, there's a real chance it came from this animal.",
+  "tts": "If you've ever eaten a squid steak or a plate of calamari, there's a real chance it came from this animal.",
+  "pause": 0.6
+ },
+ {
+  "id": "g18",
+  "text": "So... who's really the devil here?",
+  "tts": "So... who's really the devil here?",
+  "pause": 1.2
+ },
+ {
+  "id": "h1",
+  "text": "Back to the water. Midnight. Twelve metres down.",
+  "tts": "Back to the water. Midnight. Twelve metres down.",
+  "pause": 0.3
+ },
+ {
+  "id": "h2",
+  "text": "The flashing slowly fades, as the shapes slip back into the dark.",
+  "tts": "The flashing slowly fades, as the shapes slip back into the dark.",
+  "pause": 0.6
+ },
+ {
+  "id": "h3",
+  "text": "Somewhere below you right now, a few hundred metres down, thousands of them are flashing red and white at each other.",
+  "tts": "Somewhere below you right now, a few hundred metres down, thousands of them are flashing red and white at each other.",
+  "pause": 0.3
+ },
+ {
+  "id": "h4",
+  "text": "We still don't know exactly what they're saying.",
+  "tts": "We still don't know exactly what they're saying.",
+  "pause": 0.5
+ },
+ {
+  "id": "h5",
+  "text": "But if you ever see the water around you turn red, remember.",
+  "tts": "But if you ever see the water around you turn red, remember.",
+  "pause": 0.3
+ },
+ {
+  "id": "h6",
+  "text": "It probably isn't about you.",
+  "tts": "It probably isn't about you.",
+  "pause": 0.7
+ },
+ {
+  "id": "h7",
+  "text": "Probably.",
+  "tts": "Probably.",
+  "pause": 1.2
+ },
+ {
+  "id": "h8",
+  "text": "That was Encounter File number one.",
+  "tts": "That was Encounter File number one.",
+  "pause": 0.3
+ },
+ {
+  "id": "h9",
+  "text": "Which animal should we open next? Tell me in the comments. I read every single one.",
+  "tts": "Which animal should we open next? Tell me in the comments. I read every single one.",
+  "pause": 2.5
+ }
+]

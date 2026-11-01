@@ -1,0 +1,857 @@
+{
+ "duration": 566.922,
+ "lines": [
+  {
+   "id": "s1",
+   "text": "Sea of Cortez. Midnight.",
+   "start": 0.6,
+   "end": 2.392
+  },
+  {
+   "id": "s2",
+   "text": "You're twelve metres down, and your torch is the only light in the water.",
+   "start": 2.892,
+   "end": 7.184
+  },
+  {
+   "id": "s3",
+   "text": "Then the beam catches something.",
+   "start": 7.784,
+   "end": 9.425
+  },
+  {
+   "id": "s4",
+   "text": "One shape.",
+   "start": 9.925,
+   "end": 10.786
+  },
+  {
+   "id": "s5",
+   "text": "Then ten.",
+   "start": 11.136,
+   "end": 11.987
+  },
+  {
+   "id": "s6",
+   "text": "Then too many to count.",
+   "start": 12.337,
+   "end": 13.732
+  },
+  {
+   "id": "s7",
+   "text": "And every single one of them... is turning red.",
+   "start": 14.332,
+   "end": 17.16
+  },
+  {
+   "id": "s8",
+   "text": "The fishermen here have a name for them.",
+   "start": 18.06,
+   "end": 20.403
+  },
+  {
+   "id": "s9",
+   "text": "Diablo rojo.",
+   "start": 20.703,
+   "end": 21.943
+  },
+  {
+   "id": "s10",
+   "text": "The red devil.",
+   "start": 22.343,
+   "end": 23.305
+  },
+  {
+   "id": "a1",
+   "text": "Now, when you picture a dangerous animal in the ocean, you probably picture a shark.",
+   "start": 24.505,
+   "end": 29.941
+  },
+  {
+   "id": "a2",
+   "text": "One big predator, one set of teeth.",
+   "start": 30.241,
+   "end": 32.593
+  },
+  {
+   "id": "a3",
+   "text": "This is different.",
+   "start": 32.993,
+   "end": 34.133
+  },
+  {
+   "id": "a4",
+   "text": "A Humboldt squid isn't a giant. The biggest are about the length of an adult human.",
+   "start": 34.532,
+   "end": 39.961
+  },
+  {
+   "id": "a5",
+   "text": "But it almost never shows up alone.",
+   "start": 40.361,
+   "end": 42.543
+  },
+  {
+   "id": "a6",
+   "text": "It hunts in the dark, in groups that can number in the hundreds.",
+   "start": 42.843,
+   "end": 46.691
+  },
+  {
+   "id": "a7",
+   "text": "And when it gets excited, its whole body starts flashing like a warning light.",
+   "start": 46.991,
+   "end": 51.593
+  },
+  {
+   "id": "a8",
+   "text": "So why do they turn red?",
+   "start": 52.193,
+   "end": 53.82
+  },
+  {
+   "id": "a9",
+   "text": "Hold that thought. First, let's open the file.",
+   "start": 54.12,
+   "end": 56.99
+  },
+  {
+   "id": "b1",
+   "text": "Encounter File number one. Dosidicus gigas.",
+   "start": 57.79,
+   "end": 61.082
+  },
+  {
+   "id": "b2",
+   "text": "The Humboldt squid, sometimes called the jumbo squid.",
+   "start": 61.382,
+   "end": 64.794
+  },
+  {
+   "id": "b3",
+   "text": "It lives in the eastern Pacific, from Chile all the way up to Mexico, and lately, much further north.",
+   "start": 65.294,
+   "end": 72.519
+  },
+  {
+   "id": "b4",
+   "text": "A big one can have a body about one and a half metres long and weigh around fifty kilograms.",
+   "start": 72.919,
+   "end": 78.756
+  },
+  {
+   "id": "b5",
+   "text": "That's roughly the weight of a large dog, packed into a torpedo of pure muscle.",
+   "start": 79.056,
+   "end": 83.959
+  },
+  {
+   "id": "b6",
+   "text": "During the day, it's nowhere near you.",
+   "start": 84.559,
+   "end": 86.657
+  },
+  {
+   "id": "b7",
+   "text": "It sits hundreds of metres down, in water so low in oxygen that most fish can't survive there for long.",
+   "start": 86.957,
+   "end": 94.261
+  },
+  {
+   "id": "b8",
+   "text": "The squid can. It slows itself down and waits.",
+   "start": 94.561,
+   "end": 97.767
+  },
+  {
+   "id": "b9",
+   "text": "Then the sun sets. And the whole population rises.",
+   "start": 98.367,
+   "end": 101.86
+  },
+  {
+   "id": "b10",
+   "text": "Every night, they travel up toward the surface to feed, and by midnight they can be right where a night diver would be.",
+   "start": 102.16,
+   "end": 109.354
+  },
+  {
+   "id": "b11",
+   "text": "Like, say... you.",
+   "start": 109.654,
+   "end": 110.933
+  },
+  {
+   "id": "c1",
+   "text": "So what happens when they get there? Let's go through the equipment.",
+   "start": 111.833,
+   "end": 115.729
+  },
+  {
+   "id": "c2",
+   "text": "First, speed.",
+   "start": 116.229,
+   "end": 117.286
+  },
+  {
+   "id": "c3",
+   "text": "A Humboldt squid swims by jet propulsion.",
+   "start": 117.586,
+   "end": 120.294
+  },
+  {
+   "id": "c4",
+   "text": "It sucks water into its body and blasts it out through a tube called a siphon.",
+   "start": 120.494,
+   "end": 125.297
+  },
+  {
+   "id": "c5",
+   "text": "That can push it to over twenty kilometres an hour in short bursts.",
+   "start": 125.597,
+   "end": 129.56
+  },
+  {
+   "id": "c6",
+   "text": "A good swimmer in fins manages maybe three or four.",
+   "start": 129.86,
+   "end": 133.479
+  },
+  {
+   "id": "c7",
+   "text": "You are not winning a race here.",
+   "start": 133.779,
+   "end": 135.346
+  },
+  {
+   "id": "c8",
+   "text": "Second, the arms.",
+   "start": 135.946,
+   "end": 137.122
+  },
+  {
+   "id": "c9",
+   "text": "Eight arms and two longer tentacles, all covered in suckers.",
+   "start": 137.422,
+   "end": 141.332
+  },
+  {
+   "id": "c10",
+   "text": "And these aren't the soft, rubbery suckers you'd find on an octopus.",
+   "start": 141.632,
+   "end": 145.924
+  },
+  {
+   "id": "c11",
+   "text": "Each one is ringed with tiny, sharp teeth.",
+   "start": 146.124,
+   "end": 148.513
+  },
+  {
+   "id": "c12",
+   "text": "Once they close on something, they don't slide off. They dig in.",
+   "start": 148.813,
+   "end": 152.624
+  },
+  {
+   "id": "c13",
+   "text": "Third, the beak.",
+   "start": 153.224,
+   "end": 154.315
+  },
+  {
+   "id": "c14",
+   "text": "Right in the middle of all those arms sits a hard, hooked beak, a lot like a parrot's.",
+   "start": 154.615,
+   "end": 159.876
+  },
+  {
+   "id": "c15",
+   "text": "It's built to tear flesh into pieces small enough to swallow.",
+   "start": 160.176,
+   "end": 163.616
+  },
+  {
+   "id": "c16",
+   "text": "So: speed, grip, and a blade.",
+   "start": 164.216,
+   "end": 166.081
+  },
+  {
+   "id": "c17",
+   "text": "Now multiply it by a few hundred.",
+   "start": 166.381,
+   "end": 168.595
+  },
+  {
+   "id": "c18",
+   "text": "These squid don't just happen to be in the same place.",
+   "start": 169.195,
+   "end": 172.271
+  },
+  {
+   "id": "c19",
+   "text": "Sonar studies suggest they may actually coordinate when they hunt at night.",
+   "start": 172.471,
+   "end": 176.75
+  },
+  {
+   "id": "c20",
+   "text": "Which brings us back to that question.",
+   "start": 177.05,
+   "end": 179.078
+  },
+  {
+   "id": "d1",
+   "text": "Why do they turn red?",
+   "start": 179.978,
+   "end": 181.299
+  },
+  {
+   "id": "d2",
+   "text": "To find out, scientists did something slightly unhinged.",
+   "start": 181.799,
+   "end": 185.281
+  },
+  {
+   "id": "d3",
+   "text": "They strapped cameras onto live Humboldt squid and released them back into the sea.",
+   "start": 185.581,
+   "end": 190.69
+  },
+  {
+   "id": "d4",
+   "text": "A squid-cam.",
+   "start": 190.99,
+   "end": 192.011
+  },
+  {
+   "id": "d5",
+   "text": "What they saw was this.",
+   "start": 192.611,
+   "end": 193.978
+  },
+  {
+   "id": "d6",
+   "text": "The squid's skin is packed with tiny colour cells, and in this species, they come in just one colour: red.",
+   "start": 194.278,
+   "end": 201.18
+  },
+  {
+   "id": "d7",
+   "text": "Expand them, and the squid goes deep red.",
+   "start": 201.48,
+   "end": 203.98
+  },
+  {
+   "id": "d8",
+   "text": "Squeeze them shut, and it turns pale white.",
+   "start": 204.18,
+   "end": 206.729
+  },
+  {
+   "id": "d9",
+   "text": "And it can switch between the two several times a second.",
+   "start": 206.929,
+   "end": 210.325
+  },
+  {
+   "id": "d10",
+   "text": "Here's the interesting part.",
+   "start": 210.925,
+   "end": 212.571
+  },
+  {
+   "id": "d11",
+   "text": "The flashing almost always happened when other squid were in view.",
+   "start": 212.871,
+   "end": 216.693
+  },
+  {
+   "id": "d12",
+   "text": "The researchers think it's a signal, a way for squid to talk to each other in the dark.",
+   "start": 216.993,
+   "end": 222.016
+  },
+  {
+   "id": "d13",
+   "text": "They can even change the speed and the strength of the flashing.",
+   "start": 222.316,
+   "end": 226.031
+  },
+  {
+   "id": "d14",
+   "text": "So when the water around you turns into a field of flashing red, you're not looking at a warning.",
+   "start": 226.631,
+   "end": 232.273
+  },
+  {
+   "id": "d15",
+   "text": "You're looking at a conversation.",
+   "start": 232.573,
+   "end": 234.413
+  },
+  {
+   "id": "d16",
+   "text": "And you have absolutely no idea what's being said.",
+   "start": 234.813,
+   "end": 237.811
+  },
+  {
+   "id": "d17",
+   "text": "Which is somehow worse.",
+   "start": 238.111,
+   "end": 239.527
+  },
+  {
+   "id": "e1",
+   "text": "Okay. So they're fast, they grab, and they talk.",
+   "start": 240.527,
+   "end": 243.246
+  },
+  {
+   "id": "e2",
+   "text": "But has any of this actually been used against people?",
+   "start": 243.546,
+   "end": 246.657
+  },
+  {
+   "id": "e3",
+   "text": "Here's where we need to be careful, because this animal attracts a lot of tall tales.",
+   "start": 247.157,
+   "end": 252.337
+  },
+  {
+   "id": "e4",
+   "text": "Let's start with the legend.",
+   "start": 252.937,
+   "end": 254.455
+  },
+  {
+   "id": "e5",
+   "text": "Fishermen in the Sea of Cortez have long told stories of men who fell overboard at night and were never found, and they blame the red devils.",
+   "start": 254.755,
+   "end": 264.301
+  },
+  {
+   "id": "e6",
+   "text": "Those stories are old and widely repeated.",
+   "start": 264.601,
+   "end": 267.33
+  },
+  {
+   "id": "e7",
+   "text": "But we found no confirmed case of a Humboldt squid killing a human.",
+   "start": 267.63,
+   "end": 272.051
+  },
+  {
+   "id": "e8",
+   "text": "So that one goes in the legend pile.",
+   "start": 272.351,
+   "end": 274.73
+  },
+  {
+   "id": "e9",
+   "text": "Now, the real accounts.",
+   "start": 275.43,
+   "end": 276.853
+  },
+  {
+   "id": "e10",
+   "text": "Scott Cassell is a diver and filmmaker who has spent years diving with Humboldt squid in Mexico.",
+   "start": 277.353,
+   "end": 283.931
+  },
+  {
+   "id": "e11",
+   "text": "And by his own account, it hasn't always gone well.",
+   "start": 284.231,
+   "end": 287.387
+  },
+  {
+   "id": "e12",
+   "text": "He has said a squid once dragged him down so fast that his eardrum ruptured.",
+   "start": 287.787,
+   "end": 292.558
+  },
+  {
+   "id": "e13",
+   "text": "He's described having his arm pulled out of its socket.",
+   "start": 292.858,
+   "end": 295.809
+  },
+  {
+   "id": "e14",
+   "text": "And another squid, he says, tore into his scalp.",
+   "start": 296.109,
+   "end": 298.99
+  },
+  {
+   "id": "e15",
+   "text": "Today, he dives with them wearing a custom suit of body armour.",
+   "start": 299.29,
+   "end": 303.345
+  },
+  {
+   "id": "e16",
+   "text": "And it's not just one diver.",
+   "start": 304.045,
+   "end": 305.804
+  },
+  {
+   "id": "e17",
+   "text": "In the summer of 2009, thousands of jumbo squid suddenly showed up in shallow water off San Diego, near La Jolla, California.",
+   "start": 306.104,
+   "end": 315.858
+  },
+  {
+   "id": "e18",
+   "text": "Divers reported squid grabbing at their masks, their cameras, and their gear.",
+   "start": 316.158,
+   "end": 320.731
+  },
+  {
+   "id": "e19",
+   "text": "And some decided to stay out of the water altogether.",
+   "start": 320.931,
+   "end": 324.218
+  },
+  {
+   "id": "e20",
+   "text": "But listen to how the scientists described it.",
+   "start": 324.818,
+   "end": 327.535
+  },
+  {
+   "id": "e21",
+   "text": "One biologist pointed out that these squid aren't the man-eaters they'd been made out to be.",
+   "start": 327.835,
+   "end": 333.203
+  },
+  {
+   "id": "e22",
+   "text": "A lot of the grabbing looked more like curiosity than attack.",
+   "start": 333.503,
+   "end": 336.969
+  },
+  {
+   "id": "e23",
+   "text": "Picture an animal that explores the world with arms full of teeth.",
+   "start": 337.569,
+   "end": 341.487
+  },
+  {
+   "id": "e24",
+   "text": "Curiosity still leaves marks.",
+   "start": 341.787,
+   "end": 343.709
+  },
+  {
+   "id": "f1",
+   "text": "So let's put you back in the water.",
+   "start": 344.709,
+   "end": 346.518
+  },
+  {
+   "id": "f2",
+   "text": "Midnight. Twelve metres down. Red flashes all around you.",
+   "start": 346.818,
+   "end": 350.701
+  },
+  {
+   "id": "f3",
+   "text": "Your move.",
+   "start": 351.001,
+   "end": 351.8
+  },
+  {
+   "id": "f4",
+   "text": "Option one. Swim for the surface.",
+   "start": 352.6,
+   "end": 354.765
+  },
+  {
+   "id": "f5",
+   "text": "The problem: they're several times faster than you.",
+   "start": 355.065,
+   "end": 358.108
+  },
+  {
+   "id": "f6",
+   "text": "And shooting straight up from depth is one of the most dangerous things a diver can do.",
+   "start": 358.408,
+   "end": 363.682
+  },
+  {
+   "id": "f7",
+   "text": "A rapid ascent can seriously injure your lungs.",
+   "start": 363.882,
+   "end": 366.754
+  },
+  {
+   "id": "f8",
+   "text": "You'd be escaping one danger by swimming into another.",
+   "start": 367.054,
+   "end": 370.4
+  },
+  {
+   "id": "f9",
+   "text": "Option two. Stay perfectly still.",
+   "start": 371.0,
+   "end": 373.347
+  },
+  {
+   "id": "f10",
+   "text": "Honestly, better.",
+   "start": 373.647,
+   "end": 374.711
+  },
+  {
+   "id": "f11",
+   "text": "But remember, a Humboldt squid investigates with its arms.",
+   "start": 375.011,
+   "end": 379.04
+  },
+  {
+   "id": "f12",
+   "text": "Staying still might just make you a more interesting thing to touch.",
+   "start": 379.24,
+   "end": 383.41
+  },
+  {
+   "id": "f13",
+   "text": "Option three. Turn off your torch.",
+   "start": 384.01,
+   "end": 386.32
+  },
+  {
+   "id": "f14",
+   "text": "This one's tempting.",
+   "start": 386.62,
+   "end": 387.831
+  },
+  {
+   "id": "f15",
+   "text": "And here's a strange fact: squid boats in this part of the world use bright lights to draw squid in at night.",
+   "start": 388.131,
+   "end": 394.64
+  },
+  {
+   "id": "f16",
+   "text": "Light really does bring them closer.",
+   "start": 394.84,
+   "end": 396.882
+  },
+  {
+   "id": "f17",
+   "text": "But switch it off, and now you're blind, in the dark, surrounded by animals with huge eyes built for exactly this.",
+   "start": 397.182,
+   "end": 404.698
+  },
+  {
+   "id": "f18",
+   "text": "They can see you. You can't see them.",
+   "start": 404.998,
+   "end": 407.046
+  },
+  {
+   "id": "f19",
+   "text": "Option four. Fight back.",
+   "start": 407.646,
+   "end": 409.199
+  },
+  {
+   "id": "f20",
+   "text": "With what? Ten arms, hundreds of teeth, and a few hundred friends.",
+   "start": 409.499,
+   "end": 413.592
+  },
+  {
+   "id": "f21",
+   "text": "So what do people who dive with them actually do?",
+   "start": 414.292,
+   "end": 417.26
+  },
+  {
+   "id": "f22",
+   "text": "They plan for it.",
+   "start": 417.56,
+   "end": 418.644
+  },
+  {
+   "id": "f23",
+   "text": "They dive with protection, stay calm, stay together, and avoid the frenzy around injured or hooked squid, because that's when things get chaotic.",
+   "start": 418.944,
+   "end": 428.79
+  },
+  {
+   "id": "f24",
+   "text": "In other words, the real answer is to never end up alone in that water without a plan.",
+   "start": 429.09,
+   "end": 434.614
+  },
+  {
+   "id": "g1",
+   "text": "And speaking of injured squid, here's something that might change how you see all this.",
+   "start": 435.614,
+   "end": 440.866
+  },
+  {
+   "id": "g2",
+   "text": "Humboldt squid are cannibals.",
+   "start": 441.266,
+   "end": 443.068
+  },
+  {
+   "id": "g3",
+   "text": "When one gets hurt, say, caught on a fishing line, the others will often turn on it.",
+   "start": 443.368,
+   "end": 448.182
+  },
+  {
+   "id": "g4",
+   "text": "Your fellow red devil is also on the menu.",
+   "start": 448.482,
+   "end": 451.28
+  },
+  {
+   "id": "g5",
+   "text": "They also live fast.",
+   "start": 451.88,
+   "end": 453.353
+  },
+  {
+   "id": "g6",
+   "text": "Most Humboldt squid only live around a year. Two, if they're lucky.",
+   "start": 453.653,
+   "end": 458.091
+  },
+  {
+   "id": "g7",
+   "text": "Everything you've seen, the speed, the hunting, the flashing, happens in one short, intense life.",
+   "start": 458.391,
+   "end": 464.538
+  },
+  {
+   "id": "g8",
+   "text": "And they're doing something few animals manage right now. They're expanding.",
+   "start": 465.138,
+   "end": 469.615
+  },
+  {
+   "id": "g9",
+   "text": "Over the past couple of decades, they've pushed north from Mexico along the coast, all the way to Alaska.",
+   "start": 469.915,
+   "end": 476.959
+  },
+  {
+   "id": "g10",
+   "text": "One leading idea is that low-oxygen zones in the ocean are spreading, and that's exactly the kind of water this squid can handle and many of its competitors can't.",
+   "start": 477.259,
+   "end": 487.868
+  },
+  {
+   "id": "g11",
+   "text": "The ocean is changing, and this animal seems to be winning.",
+   "start": 488.168,
+   "end": 491.908
+  },
+  {
+   "id": "g12",
+   "text": "But here's the twist.",
+   "start": 492.608,
+   "end": 493.865
+  },
+  {
+   "id": "g13",
+   "text": "For all the stories about the red devil attacking people, the numbers go overwhelmingly the other way.",
+   "start": 494.265,
+   "end": 500.82
+  },
+  {
+   "id": "g14",
+   "text": "Humboldt squid support one of the biggest squid fisheries on the planet.",
+   "start": 501.12,
+   "end": 505.413
+  },
+  {
+   "id": "g15",
+   "text": "In 2014, Peru alone landed more than half a million tonnes of them.",
+   "start": 505.713,
+   "end": 510.664
+  },
+  {
+   "id": "g16",
+   "text": "Even if every single squid were a fifty-kilo giant, that's more than ten million animals in one year, from one country.",
+   "start": 510.964,
+   "end": 519.134
+  },
+  {
+   "id": "g17",
+   "text": "If you've ever eaten a squid steak or a plate of calamari, there's a real chance it came from this animal.",
+   "start": 519.734,
+   "end": 526.144
+  },
+  {
+   "id": "g18",
+   "text": "So... who's really the devil here?",
+   "start": 526.744,
+   "end": 528.672
+  },
+  {
+   "id": "h1",
+   "text": "Back to the water. Midnight. Twelve metres down.",
+   "start": 529.872,
+   "end": 533.004
+  },
+  {
+   "id": "h2",
+   "text": "The flashing slowly fades, as the shapes slip back into the dark.",
+   "start": 533.304,
+   "end": 537.532
+  },
+  {
+   "id": "h3",
+   "text": "Somewhere below you right now, a few hundred metres down, thousands of them are flashing red and white at each other.",
+   "start": 538.132,
+   "end": 545.451
+  },
+  {
+   "id": "h4",
+   "text": "We still don't know exactly what they're saying.",
+   "start": 545.751,
+   "end": 548.174
+  },
+  {
+   "id": "h5",
+   "text": "But if you ever see the water around you turn red, remember.",
+   "start": 548.674,
+   "end": 552.258
+  },
+  {
+   "id": "h6",
+   "text": "It probably isn't about you.",
+   "start": 552.558,
+   "end": 554.285
+  },
+  {
+   "id": "h7",
+   "text": "Probably.",
+   "start": 554.986,
+   "end": 555.786
+  },
+  {
+   "id": "h8",
+   "text": "That was Encounter File number one.",
+   "start": 556.986,
+   "end": 558.974
+  },
+  {
+   "id": "h9",
+   "text": "Which animal should we open next? Tell me in the comments. I read every single one.",
+   "start": 559.274,
+   "end": 564.422
+  }
+ ]
+}

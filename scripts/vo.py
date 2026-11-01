@@ -10,7 +10,7 @@ sr, chunks, t, timings = 24000, [], 0.0, []
 lead = 0.6
 chunks.append(np.zeros(int(lead * sr), dtype=np.float32)); t = lead
 for ln in lines:
-    s, sr = k.create(ln["text"], voice="am_michael", speed=ln.get("speed", 0.95), lang="en-us")
+    s, sr = k.create(ln.get("tts", ln["text"]), voice="am_michael", speed=ln.get("speed", 0.95), lang="en-us")
     # trim leading/trailing near-silence
     idx = np.where(np.abs(s) > 0.01)[0]
     s = s[max(idx[0] - 200, 0): idx[-1] + 1200] if len(idx) else s

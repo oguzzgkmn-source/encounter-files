@@ -3,3 +3,6 @@ tts/*.onnx
 tts/*.bin
 tts/sample_*.wav
 .DS_Store
+# large generated media (regenerate with scripts/)
+public/audio/pilot_*.wav
+out/pilot-*

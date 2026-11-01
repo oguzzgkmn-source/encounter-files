@@ -251,7 +251,7 @@ const HudOverlay: React.FC = () => {
   );
 };
 
-export const Opening: React.FC = () => {
+export const Opening: React.FC<{noAudio?: boolean}> = ({noAudio}) => {
   const cuts = [0, T.s2.s, T.s3.s, T.s4.s, T.s5.s, T.s6.s, T.s7.s, T.s7.e + 4, T.s8.s, T.s9.s, OPENING_FRAMES];
   const shots = [ShotA, ShotB, ShotC, ShotD, ShotE, ShotF, ShotG, null, ShotH, ShotI];
   return (
@@ -263,8 +263,8 @@ export const Opening: React.FC = () => {
       ))}
       <Sequence from={0} durationInFrames={T.s7.e + 4}><HudOverlay /></Sequence>
       <Grain />
-      <Audio src={staticFile('audio/opening_vo.wav')} />
-      <Audio src={staticFile('audio/opening_sfx.wav')} />
+      {!noAudio && <Audio src={staticFile("audio/opening_vo.wav")} />}
+      {!noAudio && <Audio src={staticFile("audio/opening_sfx.wav")} />}
     </AbsoluteFill>
   );
 };
