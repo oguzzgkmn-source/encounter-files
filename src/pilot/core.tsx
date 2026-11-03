@@ -12,6 +12,9 @@ type Line = {id: string; text: string; s: number; e: number};
 export const LINES: Record<string, Line> = {};
 timings.lines.forEach((l: any) => (LINES[l.id] = {id: l.id, text: l.text, s: Math.round(l.start * FPS), e: Math.round(l.end * FPS)}));
 export const TOTAL_FRAMES = Math.round(timings.duration * FPS);
+/** Register another episode's VO timings (ids must be unique across episodes). */
+export const addTimings = (t: {lines: any[]}) =>
+  t.lines.forEach((l: any) => (LINES[l.id] = {id: l.id, text: l.text, s: Math.round(l.start * FPS), e: Math.round(l.end * FPS)}));
 
 export const ShotCtx = createContext<{t0: number; dur: number; off?: number; cam?: Cam; camDur?: number}>({t0: 0, dur: 1});
 /** Hook giving local-frame helpers for the current shot. */

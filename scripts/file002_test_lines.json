@@ -1,0 +1,62 @@
+[
+ {
+  "id": "o1",
+  "text": "July 6, 1967.",
+  "tts": "July sixth, nineteen sixty-seven.",
+  "pause": 0.5
+ },
+ {
+  "id": "o2",
+  "text": "The research submarine Alvin is two thousand feet down, off the coast of Florida.",
+  "tts": "The research submarine Alvin is two thousand feet down, off the coast of Florida.",
+  "pause": 0.5
+ },
+ {
+  "id": "o3",
+  "text": "Down here, there is no light. No sound.",
+  "tts": "Down here, there is no light. No sound.",
+  "pause": 0.35
+ },
+ {
+  "id": "o4",
+  "text": "Nothing should be moving fast enough to hit you.",
+  "tts": "Nothing should be moving fast enough to hit you.",
+  "pause": 0.5
+ },
+ {
+  "id": "o5",
+  "text": "Then something does.",
+  "tts": "Then something does.",
+  "pause": 1.0
+ },
+ {
+  "id": "o6",
+  "text": "When Alvin finally reaches the surface, the crew finds the problem.",
+  "tts": "When Alvin finally reaches the surface, the crew finds the problem.",
+  "pause": 0.3
+ },
+ {
+  "id": "o7",
+  "text": "Stuck in the hull is a swordfish.",
+  "tts": "Stuck in the hull is a swordfish.",
+  "pause": 0.6
+ },
+ {
+  "id": "o8",
+  "text": "A fish attacked a submarine.",
+  "tts": "A fish attacked a submarine.",
+  "pause": 0.3
+ },
+ {
+  "id": "o9",
+  "text": "And the submarine had to retreat.",
+  "tts": "And the submarine had to retreat.",
+  "pause": 0.8
+ },
+ {
+  "id": "o10",
+  "text": "Encounter File number two. The sword.",
+  "tts": "Encounter File number two. The sword.",
+  "pause": 1.6
+ }
+]

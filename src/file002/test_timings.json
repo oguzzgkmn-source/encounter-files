@@ -1,0 +1,65 @@
+{
+ "duration": 33.479,
+ "lines": [
+  {
+   "id": "o1",
+   "text": "July 6, 1967.",
+   "start": 0.6,
+   "end": 3.109
+  },
+  {
+   "id": "o2",
+   "text": "The research submarine Alvin is two thousand feet down, off the coast of Florida.",
+   "start": 3.609,
+   "end": 9.029
+  },
+  {
+   "id": "o3",
+   "text": "Down here, there is no light. No sound.",
+   "start": 9.529,
+   "end": 12.101
+  },
+  {
+   "id": "o4",
+   "text": "Nothing should be moving fast enough to hit you.",
+   "start": 12.451,
+   "end": 14.816
+  },
+  {
+   "id": "o5",
+   "text": "Then something does.",
+   "start": 15.316,
+   "end": 16.562
+  },
+  {
+   "id": "o6",
+   "text": "When Alvin finally reaches the surface, the crew finds the problem.",
+   "start": 17.562,
+   "end": 21.781
+  },
+  {
+   "id": "o7",
+   "text": "Stuck in the hull is a swordfish.",
+   "start": 22.081,
+   "end": 24.033
+  },
+  {
+   "id": "o8",
+   "text": "A fish attacked a submarine.",
+   "start": 24.633,
+   "end": 26.386
+  },
+  {
+   "id": "o9",
+   "text": "And the submarine had to retreat.",
+   "start": 26.686,
+   "end": 28.6
+  },
+  {
+   "id": "o10",
+   "text": "Encounter File number two. The sword.",
+   "start": 29.4,
+   "end": 31.879
+  }
+ ]
+}
