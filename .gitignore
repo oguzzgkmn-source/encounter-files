@@ -6,3 +6,5 @@ tts/sample_*.wav
 # large generated media (regenerate with scripts/)
 public/audio/pilot_*.wav
 out/pilot-*
+public/audio/f2_*.wav
+out/f2-*
