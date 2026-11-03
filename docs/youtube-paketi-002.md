@@ -19,13 +19,13 @@ In Encounter File #002 we look at the swordfish's built-in eye heater, bust the 
 
 ⏱ CHAPTERS
 0:00 A swordfish vs. a submarine
-0:51 Encounter File #002: the billfish
-1:52 The 110 km/h myth
+0:55 Encounter File #002: the billfish
+1:53 The 110 km/h myth
 2:58 What the sword is really for
 3:53 Ships, boats and people
 5:49 Your move
-7:03 The twist
-8:03 Back to 1967
+7:02 The twist
+8:04 Back to 1967
 
 💬 What should we open after File #003? Tell me in the comments. I read every single one.
 
