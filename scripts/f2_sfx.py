@@ -25,7 +25,7 @@ for ch in src:
     if depth >= 1: cur += ch
 shots = []
 for k, e in enumerate(ents):
-    m = re.match(r"\s*'([a-z]\d+)',\s*(\w+)", e); off = re.search(r"\}\s*,\s*([\d.]+)\s*$", e)
+    m = re.match(r"\s*'([a-z]\d+)',\s*(\w+)", e); off = re.search(r",\s*([\d.]+)\s*$", e)
     shots.append((m.group(1), m.group(2), 0.0 if k == 0 else shot(m.group(1)) + (float(off.group(1)) if off else 0)))
 
 # ---------- dsp ----------
@@ -85,28 +85,27 @@ def ticks(t0, t1, bpm, amp):
     while x < t1: put(music, tick(), x, amp); x += 60 / bpm
 
 # ---------- cold open (w001–w011), same design as the approved test ----------
-IMPACT = shot("w006") + 24 / 30
+IMPACT = L["w006"]["end"] + 0.03
 drone = (np.sin(2 * np.pi * 41.2 * t) + .6 * np.sin(2 * np.pi * 61.7 * t) + .3 * np.sin(2 * np.pi * 82.4 * t * 1.003)).astype(np.float32)
-music += drone * ramp([(0, 0), (1.5, .16), (IMPACT - .2, .22), (IMPACT, .3), (shot("w007"), 0), (DUR, 0)])
-music += np.sin(2 * np.pi * 43.65 * t).astype(np.float32) * ramp([(0, 0), (shot("w005"), 0), (IMPACT, .18), (shot("w007"), 0), (DUR, 0)])
+music += drone * ramp([(0, 0), (1.5, .07), (IMPACT - .2, .09), (IMPACT, .3), (shot("w007"), 0), (DUR, 0)])
+music += np.sin(2 * np.pi * 43.65 * t).astype(np.float32) * ramp([(0, 0), (shot("w005"), 0), (IMPACT - .1, .06), (IMPACT, .15), (shot("w007"), 0), (DUR, 0)])
 hum = norm(band(noise(N), 50, 180))
-sfx += hum * ramp([(0, 0), (shot("w002"), 0), (shot("w002") + 1, .12), (shot("w007"), .1), (shot("w007") + .3, 0), (DUR, 0)])
-for k in range(5): put(sfx, clank(1.2) * .25, shot("w002") + 1 + k * 1.7 + rng.random(), .25)
+sfx += hum * ramp([(0, 0), (shot("w002"), 0), (shot("w002") + 1, .03), (shot("w007"), .025), (shot("w007") + .3, 0), (DUR, 0)])
+for k in range(4): put(sfx, clank(1.2), shot("w002") + 1 + k * 1.9 + rng.random(), .03)
 for k in range(16): put(sfx, bubble(), shot("w002") + rng.random() * 5, .06)
-put(sfx, ping(1150, 2.5), shot("w003") + .4, .2)
-for i, d in enumerate([0, .7, 1.25, 1.7, 2.05, 2.35, 2.6, 2.8]): put(sfx, ping(1250 + 25 * i, 1.0), shot("w005") + .2 + d, .22)
-put(sfx, whoosh(.7, 200, 3000), IMPACT - .55, .6); put(sfx, boom(), IMPACT, 1.0); put(sfx, clank(), IMPACT, .7)
-for k in range(10): put(sfx, beep(880 if k % 2 == 0 else 660), IMPACT + .5 + k * .32, .18)
+put(sfx, ping(1150, 2.5), shot("w003") + .4, .07)
+for i, d in enumerate([0, .8, 1.5, 2.0, 2.4]): put(sfx, ping(1250 + 25 * i, 1.0), shot("w005") + .2 + d, .04)
+put(sfx, whoosh(.45, 200, 3000), IMPACT - .3, .15); put(sfx, boom(), IMPACT, .75); put(sfx, clank(), IMPACT, .3)
 waves = norm(band(noise(N), 150, 1500)) * (0.6 + 0.4 * np.sin(2 * np.pi * .15 * t)).astype(np.float32)
 put(sfx, whoosh(.4, 600, 5000), shot("w007") - .15, .3)
-put(sfx, boom(70, 35, 1.2), S("w010"), .35); put(sfx, boom(80, 30, 1.2), S("w011") - .05, .35)
+put(sfx, boom(70, 35, 1.0), S("w010") - .15, .08); put(sfx, boom(80, 30, 1.0), S("w011") - .15, .08)
 
 # ---------- section beds ----------
 pad([[45, 52, 57], [45, 52, 58], [41, 48, 57], [45, 52, 57]], shot("w010"), shot("w020"), 5, .2)                  # 1: tense
-put(sfx, boom(100, 28, 3.5), shot("w020") + 4 / 30, 1.0); put(sfx, clank(3) * .6, shot("w020") + 4 / 30, .5)          # title
+put(sfx, boom(100, 28, 1.6), shot("w020") - .1, .3); put(sfx, clank(1.5) * .6, shot("w020") - .1, .1)          # title
 pad([[50, 57, 62, 65], [46, 53, 62, 65], [48, 55, 60, 64], [45, 52, 61, 64]], shot("w022"), shot("w036"), 6, .16, .6)  # 2: file
 pad([[40, 47, 52], [40, 47, 53], [43, 50, 55], [38, 45, 50]], shot("w036"), shot("w055"), 4, .16)                      # 3: speed
-pulse(shot("w036") + .5, shot("w055") - .5, 100, .2, every=2)
+pulse(shot("w036") + .5, shot("w055") - .5, 100, .11, every=2)
 pad([[57, 64, 69, 76], [53, 60, 69, 72], [55, 62, 67, 74], [52, 59, 67, 71]], shot("w055"), shot("w069"), 5, .13, .9)  # 4: curious
 pad([[33, 40, 45], [33, 40, 46], [31, 38, 43], [34, 41, 46]], shot("w069"), shot("w087"), 6, .22, .2)                  # 5: encounters
 pad([[45, 52], [45, 52]], shot("w087"), shot("w098"), 8, .12, .1)                                                       # 5b: somber, sparse
@@ -121,22 +120,22 @@ pad([[45, 52, 57, 64], [41, 48, 57, 60], [43, 50, 55, 62], [45, 52, 57, 64]], sh
 for id, comp, st in shots[1:]:
     if comp == "CUT": put(sfx, whoosh(.25, 1500, 6000), st - .05, .04)
     elif st > shot("w011"): put(sfx, whoosh(.45, 300, 3500), st - .2, .08)
-put(sfx, boom(100, 40, 1.4), S("w040") + 8 / 30, .5)                                   # ALMOST CERTAINLY WRONG
+put(sfx, boom(100, 40, 1.0), S("w040") + 8 / 30, .15)                                   # ALMOST CERTAINLY WRONG
 reel = norm(band(noise(int(3.2 * SR)), 1800, 5200)) * (0.6 + 0.4 * np.sign(np.sin(2 * np.pi * 28 * np.arange(int(3.2 * SR)) / SR))).astype(np.float32)
 put(sfx, reel * np.linspace(1, .6, len(reel)).astype(np.float32), shot("w041") + .1, .22)   # reel screaming
 for k in range(60): put(sfx, bubble(), S("w050", .4) + k * .07, .05)                   # cavitation
 put(sfx, whoosh(.35, 500, 4000), shot("w060") + 8 / 30, .45)                           # slash
-put(sfx, whoosh(.6, 200, 2500), shot("w077") + .2, .4); put(sfx, splash(), S("w079"), .45)   # marlin jumps
-put(sfx, boom(85, 35, 1.8), S("w080"), .9); put(sfx, clank(1.4), S("w080") + .1, .4); put(sfx, splash(2), S("w080", .8), .5)
-put(sfx, boom(100, 40, 1.4), S("w096"), .5)                                             # UNRESOLVED
-put(sfx, boom(), S("w108"), .5)                                                         # YOUR MOVE
+put(sfx, whoosh(.6, 200, 2500), shot("w077") + .2, .25); put(sfx, splash(), S("w079"), .25)   # marlin jumps
+put(sfx, boom(85, 35, 1.4), S("w080") - .2, .45); put(sfx, clank(1.0), S("w080") - .1, .15); put(sfx, splash(2), S("w080", .8), .25)
+put(sfx, boom(100, 40, 1.2), S("w096"), .28)                                             # UNRESOLVED
+put(sfx, boom(90, 28, 1.6), S("w108") - .15, .25)                                                         # YOUR MOVE
 for i in ["w109", "w113", "w117", "w121"]: put(sfx, tick(1600), S(i), .5)
-put(sfx, splash(1.2), S("w118"), .3)
-put(sfx, boom(110, 50, 1.2), S("w143") + 20 / 30, .45)                                  # REBUILT stamp
-put(sfx, boom(110, 50, 1.2), shot("w156") + 14 / 30, .5)                                # FILE CLOSED
+put(sfx, splash(1.2), S("w118"), .15)
+put(sfx, boom(110, 50, 1.0), S("w143") + 20 / 30, .25)                                  # REBUILT stamp
+put(sfx, boom(110, 50, 1.0), shot("w156") + 14 / 30, .22)                                # FILE CLOSED
 sizzle = norm(band(noise(int(3 * SR)), 2500, 9000)) * np.linspace(0, 1, int(3 * SR)).astype(np.float32) ** .3
 put(sfx, sizzle, S("w152"), .12)
-put(sfx, whoosh(.4, 1500, 7000), shot("w157") + 50 / 30, .5)                            # needle dart
+put(sfx, whoosh(.4, 1500, 7000), shot("w157") + 50 / 30, .18)                            # needle dart
 # surface waves under boat / sea scenes
 sea = ramp([(0, 0), (shot("w007") - .1, 0), (shot("w007") + .3, .14), (shot("w010"), .1), (shot("w010") + .4, 0),
             (shot("w069"), 0), (shot("w069") + .5, .1), (shot("w071"), 0),
@@ -152,8 +151,9 @@ vo = vo.mean(1) if vo.ndim > 1 else vo
 hop = vsr // 50
 venv = np.array([np.abs(vo[i:i + hop]).mean() for i in range(0, len(vo), hop)])
 active = np.clip(np.convolve((venv > 0.01).astype(np.float32), np.ones(25) / 25, "same") * 2, 0, 1)
-duck = 1 - 0.45 * np.interp(t, np.arange(len(active)) * hop / vsr, active).astype(np.float32)
-mix = music * 0.42 * duck + sfx
+duck = 1 - 0.6 * np.interp(t, np.arange(len(active)) * hop / vsr, active).astype(np.float32)
+duck_s = 1 - 0.55 * np.interp(t, np.arange(len(active)) * hop / vsr, active).astype(np.float32)
+mix = music * 0.42 * duck + sfx * duck_s
 mix = np.tanh(mix * 1.25).astype(np.float32) * .8
 sf.write(ROOT + "public/audio/f2_sfx.wav", np.stack([mix, mix], 1), SR)
 print("ok", round(DUR, 1), "s, shots", len(shots), "impact", round(IMPACT, 2))

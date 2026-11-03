@@ -87,9 +87,9 @@ export const T4: React.FC = () => {
 };
 
 /* T5 — impact */
-export const T5: React.FC = () => {
-  const {f} = useShot();
-  const I = IMPACT_LOCAL;
+export const T5: React.FC<{impactLine?: string}> = ({impactLine}) => {
+  const {f, end} = useShot();
+  const I = impactLine ? Math.round(end(impactLine)) + 1 : IMPACT_LOCAL;
   const fx = lerp(f, 0, I, 2350, 1227, Easing.in(Easing.quad));
   const fy = lerp(f, 0, I, 1020, 729, Easing.in(Easing.quad));
   const flash = f >= I ? lerp(f, I, I + 8, 1, 0) : 0;

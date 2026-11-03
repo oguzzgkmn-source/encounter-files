@@ -71,7 +71,7 @@ export const E77: React.FC = () => {
   const back = f > bs ? lerp(f, bs, be, 0, 1) : 0;
   return (
     <Shot cam={{s: [1.0, 1.08], shake: [{at: crash, amp: 1.2, len: 30}]}} over={<>
-      {f > into && <Headline text={<>INTO <span style={{color: C.red}}>IT.</span></>} at={into} size={120} y={120} />}
+      {f > into && f < crash + 30 && <Headline text={<>INTO <span style={{color: C.red}}>IT.</span></>} at={into} size={120} y={120} />}
       {f > ok && <Label text="SERIOUS INJURIES: NONE" at={ok} color={C.sonar} />}
       {f > cam && <div style={{position: 'absolute', right: 120, top: 90, fontFamily: MONO, fontSize: 32, color: C.red}}>● REC · CAUGHT ON CAMERA</div>}
     </>}>

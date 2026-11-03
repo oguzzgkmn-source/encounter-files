@@ -1,959 +1,959 @@
 {
- "duration": 524.527,
+ "duration": 525.427,
  "lines": [
   {
    "id": "w001",
    "text": "July sixth, nineteen sixty-seven.",
-   "start": 0.22,
-   "end": 2.561
+   "start": 0.0,
+   "end": 2.29
   },
   {
    "id": "w002",
    "text": "The research submarine Alvin is two thousand feet down, off the coast of Florida.",
-   "start": 2.839,
-   "end": 7.649
+   "start": 2.59,
+   "end": 8.0
   },
   {
    "id": "w003",
    "text": "Down here, there is no light.",
-   "start": 8.144,
-   "end": 9.926
+   "start": 7.95,
+   "end": 10.16
   },
   {
    "id": "w004",
    "text": "No sound.",
-   "start": 10.254,
-   "end": 11.009
+   "start": 10.11,
+   "end": 11.16
   },
   {
    "id": "w005",
    "text": "Nothing should be moving fast enough to hit you.",
-   "start": 11.326,
-   "end": 13.651
+   "start": 11.11,
+   "end": 13.96
   },
   {
    "id": "w006",
    "text": "Then something does.",
-   "start": 14.152,
-   "end": 15.214
+   "start": 13.91,
+   "end": 15.27
   },
   {
    "id": "w007",
    "text": "When Alvin finally reaches the surface, the crew finds the problem.",
-   "start": 15.734,
-   "end": 19.606
+   "start": 16.21,
+   "end": 20.659
   },
   {
    "id": "w008",
    "text": "Stuck in the hull is a swordfish.",
-   "start": 20.19,
-   "end": 22.279
+   "start": 20.609,
+   "end": 23.299
   },
   {
    "id": "w009",
    "text": "Its sword driven into a gap in the sub's outer skin, the rest of it still attached.",
-   "start": 22.462,
-   "end": 27.611
+   "start": 23.249,
+   "end": 28.699
   },
   {
    "id": "w010",
    "text": "A fish attacked a submarine.",
-   "start": 27.841,
-   "end": 29.86
+   "start": 28.649,
+   "end": 30.859
   },
   {
    "id": "w011",
    "text": "And the submarine had to retreat.",
-   "start": 30.035,
-   "end": 32.049
+   "start": 30.809,
+   "end": 33.179
   },
   {
    "id": "w012",
    "text": "This is a file about the only fish in the ocean that are born with a weapon on their face.",
-   "start": 32.258,
-   "end": 37.941
+   "start": 33.129,
+   "end": 38.219
   },
   {
    "id": "w013",
    "text": "Swordfish, marlin and their relatives.",
-   "start": 37.941,
-   "end": 40.618
+   "start": 38.169,
+   "end": 41.029
   },
   {
    "id": "w014",
    "text": "Animals that have pierced boats, ships, submarines, and sometimes, people.",
-   "start": 40.897,
-   "end": 44.55
+   "start": 41.329,
+   "end": 47.699
   },
   {
    "id": "w015",
    "text": "But here's the strangest part.",
-   "start": 44.977,
-   "end": 45.908
+   "start": 47.649,
+   "end": 49.859
   },
   {
    "id": "w016",
    "text": "That sword?",
-   "start": 46.368,
-   "end": 46.834
+   "start": 49.809,
+   "end": 50.779
   },
   {
    "id": "w017",
    "text": "It isn't really built for stabbing.",
-   "start": 47.297,
-   "end": 48.709
+   "start": 50.729,
+   "end": 52.899
   },
   {
    "id": "w018",
    "text": "Remember that.",
-   "start": 49.104,
-   "end": 49.78
+   "start": 52.849,
+   "end": 53.899
   },
   {
    "id": "w019",
    "text": "We'll come back to it.",
-   "start": 50.25,
-   "end": 51.836
+   "start": 53.849,
+   "end": 55.379
   },
   {
    "id": "w020",
    "text": "Encounter File number two.",
-   "start": 52.126,
-   "end": 52.878
+   "start": 55.329,
+   "end": 57.339
   },
   {
    "id": "w021",
    "text": "The billfish.",
-   "start": 53.242,
-   "end": 54.218
+   "start": 57.289,
+   "end": 58.624
   },
   {
    "id": "w022",
    "text": "There are a few members of this family.",
-   "start": 54.734,
-   "end": 57.519
+   "start": 58.574,
+   "end": 60.864
   },
   {
    "id": "w023",
    "text": "Marlin, with a round, spear-like bill.",
-   "start": 57.93,
-   "end": 59.631
+   "start": 60.814,
+   "end": 63.984
   },
   {
    "id": "w024",
    "text": "Sailfish, with a huge fin on their back.",
-   "start": 60.055,
-   "end": 62.536
+   "start": 63.934,
+   "end": 66.784
   },
   {
    "id": "w025",
    "text": "And the swordfish, with a flat, sharp-edged sword that can be a third of its body length.",
-   "start": 62.91,
-   "end": 69.169
+   "start": 66.734,
+   "end": 71.944
   },
   {
    "id": "w026",
    "text": "They're not small.",
-   "start": 69.169,
-   "end": 70.758
+   "start": 71.894,
+   "end": 72.904
   },
   {
    "id": "w027",
    "text": "The heaviest swordfish ever caught on a rod, off Chile in nineteen fifty-three, weighed over five hundred kilograms.",
-   "start": 70.758,
-   "end": 79.499
+   "start": 72.854,
+   "end": 80.224
   },
   {
    "id": "w028",
    "text": "Big marlin can top half a ton.",
-   "start": 79.499,
-   "end": 81.754
+   "start": 80.174,
+   "end": 82.544
   },
   {
    "id": "w029",
    "text": "And the swordfish has one more trick.",
-   "start": 82.011,
-   "end": 84.236
+   "start": 82.494,
+   "end": 85.344
   },
   {
    "id": "w030",
    "text": "During the day it hunts hundreds of metres down, where the water is cold and almost black.",
-   "start": 84.819,
-   "end": 90.085
+   "start": 85.294,
+   "end": 91.264
   },
   {
    "id": "w031",
    "text": "Cold eyes are slow eyes.",
-   "start": 90.544,
-   "end": 92.284
+   "start": 91.214,
+   "end": 93.344
   },
   {
    "id": "w032",
    "text": "So the swordfish carries a heater.",
-   "start": 92.722,
-   "end": 94.58
+   "start": 93.294,
+   "end": 95.704
   },
   {
    "id": "w033",
    "text": "A special organ, made from a modified eye muscle, that warms its eyes and brain well above the temperature of the water around it.",
-   "start": 95.035,
-   "end": 102.404
+   "start": 95.654,
+   "end": 103.497
   },
   {
    "id": "w034",
    "text": "Scientists found that warm eyes can track fast movement many times better than cold ones.",
-   "start": 102.791,
-   "end": 108.255
+   "start": 103.447,
+   "end": 109.577
   },
   {
    "id": "w035",
    "text": "In the dark, the swordfish sees you move before you know it's there.",
-   "start": 108.255,
-   "end": 112.39
+   "start": 109.527,
+   "end": 113.497
   },
   {
    "id": "w036",
    "text": "If you've read anything about these fish, you've probably seen this number.",
-   "start": 112.39,
-   "end": 117.032
+   "start": 113.447,
+   "end": 117.257
   },
   {
    "id": "w037",
    "text": "The sailfish, fastest fish in the ocean.",
-   "start": 117.032,
-   "end": 119.468
+   "start": 117.207,
+   "end": 120.543
   },
   {
    "id": "w038",
    "text": "One hundred and ten kilometres an hour.",
-   "start": 119.818,
-   "end": 121.961
+   "start": 120.493,
+   "end": 122.943
   },
   {
    "id": "w039",
    "text": "It's a great number.",
-   "start": 122.085,
-   "end": 123.348
+   "start": 122.893,
+   "end": 124.143
   },
   {
    "id": "w040",
    "text": "It's also, almost certainly, wrong.",
-   "start": 123.541,
-   "end": 125.899
+   "start": 124.093,
+   "end": 126.783
   },
   {
    "id": "w041",
    "text": "Those old speeds came from fishing reels, from timing how fast line was ripped off the spool.",
-   "start": 126.039,
-   "end": 131.247
+   "start": 126.733,
+   "end": 132.383
   },
   {
    "id": "w042",
    "text": "That measures the line, not the fish.",
-   "start": 131.71,
-   "end": 133.854
+   "start": 132.333,
+   "end": 134.783
   },
   {
    "id": "w043",
    "text": "So in twenty sixteen, a team of scientists tried something smarter.",
-   "start": 134.073,
-   "end": 138.262
+   "start": 134.733,
+   "end": 139.381
   },
   {
    "id": "w044",
    "text": "They measured how fast the swimming muscles can actually contract.",
-   "start": 138.7,
-   "end": 143.618
+   "start": 139.331,
+   "end": 143.621
   },
   {
    "id": "w045",
    "text": "A fish can only beat its tail as fast as its muscles allow.",
-   "start": 143.739,
-   "end": 147.007
+   "start": 143.571,
+   "end": 147.901
   },
   {
    "id": "w046",
    "text": "Their answer?",
-   "start": 147.007,
-   "end": 147.851
+   "start": 147.851,
+   "end": 148.821
   },
   {
    "id": "w047",
    "text": "A sailfish tops out at roughly eight metres per second.",
-   "start": 148.16,
-   "end": 151.524
+   "start": 148.771,
+   "end": 152.581
   },
   {
    "id": "w048",
    "text": "About thirty kilometres an hour.",
-   "start": 151.791,
-   "end": 153.61
+   "start": 152.531,
+   "end": 154.661
   },
   {
    "id": "w049",
    "text": "And there's a hard limit above that.",
-   "start": 153.962,
-   "end": 155.821
+   "start": 154.611,
+   "end": 156.863
   },
   {
    "id": "w050",
    "text": "Push past ten to fifteen metres a second, and the water pressure around the fins drops so fast it literally boils into tiny bubbles.",
-   "start": 156.105,
-   "end": 164.442
+   "start": 156.813,
+   "end": 165.623
   },
   {
    "id": "w051",
    "text": "Those bubbles collapse against the fin and tear the tissue apart.",
-   "start": 164.442,
-   "end": 168.794
+   "start": 165.573,
+   "end": 169.623
   },
   {
    "id": "w052",
    "text": "The ocean itself puts a speed limit on fish.",
-   "start": 168.952,
-   "end": 171.822
+   "start": 169.573,
+   "end": 172.663
   },
   {
    "id": "w053",
    "text": "Thirty kilometres an hour doesn't sound like much.",
-   "start": 171.976,
-   "end": 174.904
+   "start": 172.613,
+   "end": 175.948
   },
   {
    "id": "w054",
    "text": "Until you remember what's attached to the front.",
-   "start": 175.191,
-   "end": 178.576
+   "start": 175.898,
+   "end": 178.867
   },
   {
    "id": "w055",
    "text": "So, what is the sword actually for?",
-   "start": 178.929,
-   "end": 180.692
+   "start": 178.817,
+   "end": 181.827
   },
   {
    "id": "w056",
    "text": "In twenty fourteen, researchers filmed sailfish hunting sardines off Canc\u00fan, with high-speed cameras.",
-   "start": 181.27,
-   "end": 187.652
+   "start": 181.777,
+   "end": 188.747
   },
   {
    "id": "w057",
    "text": "What they saw surprised them.",
-   "start": 188.092,
-   "end": 189.58
+   "start": 188.697,
+   "end": 190.587
   },
   {
    "id": "w058",
    "text": "The sailfish didn't charge in and stab.",
-   "start": 189.955,
-   "end": 191.987
+   "start": 190.537,
+   "end": 193.145
   },
   {
    "id": "w059",
    "text": "They slid their bills into the school, slowly, so quietly the sardines didn't even react.",
-   "start": 192.503,
-   "end": 198.367
+   "start": 193.095,
+   "end": 199.345
   },
   {
    "id": "w060",
    "text": "Then, a flick of the head.",
-   "start": 198.367,
-   "end": 200.158
+   "start": 199.295,
+   "end": 201.265
   },
   {
    "id": "w061",
    "text": "A sideways slash, or a quick tap.",
-   "start": 200.33,
-   "end": 202.547
+   "start": 201.215,
+   "end": 203.865
   },
   {
    "id": "w062",
    "text": "Only about one slash in ten caught a fish outright.",
-   "start": 202.547,
-   "end": 206.049
+   "start": 203.815,
+   "end": 207.145
   },
   {
    "id": "w063",
    "text": "The rest just injured them, knocking off scales, cutting tissue, until the school started to fall apart.",
-   "start": 206.191,
-   "end": 212.936
+   "start": 207.095,
+   "end": 212.905
   },
   {
    "id": "w064",
    "text": "So the bill works less like a spear, and more like a sword being swung.",
-   "start": 213.201,
-   "end": 217.339
+   "start": 213.135,
+   "end": 218.265
   },
   {
    "id": "w065",
    "text": "Scientists think swordfish use theirs in a similar way.",
-   "start": 217.537,
-   "end": 220.641
+   "start": 218.215,
+   "end": 221.545
   },
   {
    "id": "w066",
    "text": "Which means that when a billfish puts its bill through something, it usually isn't hunting.",
-   "start": 220.852,
-   "end": 225.273
+   "start": 221.495,
+   "end": 226.225
   },
   {
    "id": "w067",
    "text": "And as you're about to see, it's almost always the same story.",
-   "start": 225.555,
-   "end": 229.17
+   "start": 226.175,
+   "end": 230.311
   },
   {
    "id": "w068",
    "text": "A fish that's hooked, speared, or flying through the air.",
-   "start": 229.653,
-   "end": 232.957
+   "start": 230.261,
+   "end": 234.231
   },
   {
    "id": "w069",
    "text": "Let's start with ships.",
-   "start": 233.607,
-   "end": 234.873
+   "start": 234.181,
+   "end": 235.951
   },
   {
    "id": "w070",
    "text": "In eighteen thirty-two, a sailing ship called the Farquharson came into port with something stuck in its hull.",
-   "start": 235.342,
-   "end": 242.741
+   "start": 235.901,
+   "end": 242.871
   },
   {
    "id": "w071",
    "text": "Two bills, from two marlin, driven deep into the timber.",
-   "start": 243.074,
-   "end": 245.821
+   "start": 242.821,
+   "end": 246.948
   },
   {
    "id": "w072",
    "text": "That plank is still kept at the Natural History Museum in London.",
-   "start": 246.276,
-   "end": 249.595
+   "start": 246.898,
+   "end": 250.788
   },
   {
    "id": "w073",
    "text": "The fish lost.",
-   "start": 250.057,
-   "end": 251.013
+   "start": 250.738,
+   "end": 251.909
   },
   {
    "id": "w074",
    "text": "The wood still has the holes.",
-   "start": 251.292,
-   "end": 252.852
+   "start": 251.859,
+   "end": 254.108
   },
   {
    "id": "w075",
    "text": "Now, people.",
-   "start": 253.218,
-   "end": 254.125
+   "start": 254.058,
+   "end": 255.108
   },
   {
    "id": "w076",
    "text": "In twenty twelve, off northern Australia, a charter crew was reversing their boat toward a hooked black marlin of around two hundred and seventy kilograms, to tag it and let it go.",
-   "start": 254.568,
-   "end": 263.003
+   "start": 255.058,
+   "end": 266.07
   },
   {
    "id": "w077",
    "text": "The marlin jumped.",
-   "start": 263.357,
-   "end": 264.051
+   "start": 266.02,
+   "end": 267.47
   },
   {
    "id": "w078",
    "text": "Not away from the boat.",
-   "start": 264.193,
-   "end": 264.974
+   "start": 267.42,
+   "end": 269.11
   },
   {
    "id": "w079",
    "text": "Into it.",
-   "start": 265.366,
-   "end": 265.725
+   "start": 269.06,
+   "end": 269.99
   },
   {
    "id": "w080",
    "text": "It crashed through the cockpit, knocked people over, sent a chair flying, and then threw itself back into the sea.",
-   "start": 265.725,
-   "end": 270.936
+   "start": 269.94,
+   "end": 276.75
   },
   {
    "id": "w081",
    "text": "Somehow, nobody was seriously hurt.",
-   "start": 271.056,
-   "end": 273.434
+   "start": 276.7,
+   "end": 279.51
   },
   {
    "id": "w082",
    "text": "It was all caught on camera.",
-   "start": 273.434,
-   "end": 275.355
+   "start": 279.46,
+   "end": 281.35
   },
   {
    "id": "w083",
    "text": "In twenty fifteen, off Hawaii, fisherman Russell Ching spent a long fight bringing in a blue marlin of more than two hundred kilograms.",
-   "start": 275.355,
-   "end": 283.778
+   "start": 281.3,
+   "end": 290.47
   },
   {
    "id": "w084",
    "text": "As the crew hauled it aboard, the weight shifted, and the bill went straight through his leg.",
-   "start": 283.778,
-   "end": 289.433
+   "start": 290.42,
+   "end": 295.79
   },
   {
    "id": "w085",
    "text": "It missed the main artery.",
-   "start": 289.65,
-   "end": 292.071
+   "start": 295.74,
+   "end": 297.55
   },
   {
    "id": "w086",
    "text": "He walked away, and kept the tip of the bill.",
-   "start": 292.071,
-   "end": 295.917
+   "start": 297.5,
+   "end": 300.43
   },
   {
    "id": "w087",
    "text": "Not every story ends like that.",
-   "start": 295.917,
-   "end": 298.852
+   "start": 300.38,
+   "end": 302.43
   },
   {
    "id": "w088",
    "text": "Earlier that same year, in a harbour on Hawaii's Big Island, charter captain Randy Llanes went into the water with a spear gun after a swordfish.",
-   "start": 298.852,
-   "end": 310.862
+   "start": 302.38,
+   "end": 311.71
   },
   {
    "id": "w089",
    "text": "He hit it.",
-   "start": 311.129,
-   "end": 311.814
+   "start": 311.66,
+   "end": 312.67
   },
   {
    "id": "w090",
    "text": "The wounded fish thrashed, and its bill struck him in the chest.",
-   "start": 312.136,
-   "end": 315.636
+   "start": 312.62,
+   "end": 316.71
   },
   {
    "id": "w091",
    "text": "He didn't survive.",
-   "start": 316.088,
-   "end": 317.177
+   "start": 316.66,
+   "end": 318.15
   },
   {
    "id": "w092",
    "text": "Investigators ruled it an accident.",
-   "start": 317.596,
-   "end": 319.562
+   "start": 318.1,
+   "end": 320.63
   },
   {
    "id": "w093",
    "text": "And in twenty twenty-four, in Indonesia's Mentawai Islands, Italian surfer Giulia Manfrini was struck in the chest by a fish that leapt out of the water.",
-   "start": 320.059,
-   "end": 329.866
+   "start": 320.58,
+   "end": 330.991
   },
   {
    "id": "w094",
    "text": "Officials reported it as a swordfish.",
-   "start": 330.317,
-   "end": 331.715
+   "start": 330.941,
+   "end": 333.751
   },
   {
    "id": "w095",
    "text": "The resort where she was staying said it was a different fish entirely, a needlefish.",
-   "start": 331.81,
-   "end": 336.835
+   "start": 333.701,
+   "end": 338.472
   },
   {
    "id": "w096",
    "text": "We may never know which.",
-   "start": 336.835,
-   "end": 338.433
+   "start": 338.422,
+   "end": 339.792
   },
   {
    "id": "w097",
    "text": "We'll come back to that other fish in a future file.",
-   "start": 338.433,
-   "end": 341.437
+   "start": 339.742,
+   "end": 342.431
   },
   {
    "id": "w098",
    "text": "Look at the pattern.",
-   "start": 341.543,
-   "end": 342.894
+   "start": 342.381,
+   "end": 343.471
   },
   {
    "id": "w099",
    "text": "A hooked fish.",
-   "start": 342.894,
-   "end": 343.947
+   "start": 343.421,
+   "end": 344.511
   },
   {
    "id": "w100",
    "text": "A speared fish.",
-   "start": 343.947,
-   "end": 345.07
+   "start": 344.461,
+   "end": 345.631
   },
   {
    "id": "w101",
    "text": "A fish in mid-air.",
-   "start": 345.07,
-   "end": 346.13
+   "start": 345.581,
+   "end": 346.991
   },
   {
    "id": "w102",
    "text": "None of these animals came looking for a person.",
-   "start": 346.397,
-   "end": 348.787
+   "start": 346.941,
+   "end": 349.934
   },
   {
    "id": "w103",
    "text": "So let's put you on the boat.",
-   "start": 349.281,
-   "end": 350.57
+   "start": 349.884,
+   "end": 351.614
   },
   {
    "id": "w104",
    "text": "Small boat.",
-   "start": 350.775,
-   "end": 351.51
+   "start": 351.564,
+   "end": 352.534
   },
   {
    "id": "w105",
    "text": "Open ocean.",
-   "start": 351.776,
-   "end": 352.496
+   "start": 352.484,
+   "end": 353.454
   },
   {
    "id": "w106",
    "text": "The line is screaming off the reel, and three hundred kilos of marlin just came out of the water, twenty metres away.",
-   "start": 352.859,
-   "end": 359.072
+   "start": 353.404,
+   "end": 360.254
   },
   {
    "id": "w107",
    "text": "Heading your way.",
-   "start": 359.5,
-   "end": 360.257
+   "start": 360.204,
+   "end": 361.454
   },
   {
    "id": "w108",
    "text": "Your move.",
-   "start": 360.607,
-   "end": 361.189
+   "start": 361.404,
+   "end": 362.414
   },
   {
    "id": "w109",
    "text": "Option one.",
-   "start": 361.757,
-   "end": 362.507
+   "start": 362.364,
+   "end": 363.574
   },
   {
    "id": "w110",
    "text": "Grab the line and pull it in.",
-   "start": 362.956,
-   "end": 364.626
+   "start": 363.524,
+   "end": 365.774
   },
   {
    "id": "w111",
    "text": "Bad idea.",
-   "start": 365.076,
-   "end": 365.782
+   "start": 365.724,
+   "end": 366.898
   },
   {
    "id": "w112",
    "text": "That line is attached to an animal that can outpull you without trying, and pulling it closer is exactly how the bill ends up in the boat.",
-   "start": 366.214,
-   "end": 373.854
+   "start": 366.848,
+   "end": 375.058
   },
   {
    "id": "w113",
    "text": "Option two.",
-   "start": 374.264,
-   "end": 375.033
+   "start": 375.008,
+   "end": 376.098
   },
   {
    "id": "w114",
    "text": "Lean over the side to get a better look.",
-   "start": 375.523,
-   "end": 377.57
+   "start": 376.048,
+   "end": 378.698
   },
   {
    "id": "w115",
    "text": "This is the one that hurts people.",
-   "start": 378.032,
-   "end": 379.699
+   "start": 378.648,
+   "end": 380.898
   },
   {
    "id": "w116",
    "text": "The edge of the boat is where the fish arrives.",
-   "start": 380.357,
-   "end": 382.706
+   "start": 380.848,
+   "end": 383.898
   },
   {
    "id": "w117",
    "text": "Option three.",
-   "start": 383.175,
-   "end": 384.014
+   "start": 383.848,
+   "end": 385.068
   },
   {
    "id": "w118",
    "text": "Jump in the water and swim for it.",
-   "start": 384.323,
-   "end": 386.261
+   "start": 385.018,
+   "end": 387.388
   },
   {
    "id": "w119",
    "text": "Now you're in its world, next to a frightened animal with a sword.",
-   "start": 386.694,
-   "end": 390.247
+   "start": 387.338,
+   "end": 391.188
   },
   {
    "id": "w120",
    "text": "That's the situation that killed a captain in Hawaii.",
-   "start": 390.49,
-   "end": 393.054
+   "start": 391.138,
+   "end": 394.268
   },
   {
    "id": "w121",
    "text": "Option four.",
-   "start": 393.512,
-   "end": 394.319
+   "start": 394.218,
+   "end": 395.348
   },
   {
    "id": "w122",
    "text": "Get low, and get away from the side the fish is on.",
-   "start": 394.713,
-   "end": 397.53
+   "start": 395.298,
+   "end": 398.588
   },
   {
    "id": "w123",
    "text": "That's the one.",
-   "start": 397.773,
-   "end": 398.451
+   "start": 398.538,
+   "end": 399.523
   },
   {
    "id": "w124",
    "text": "Crews who catch these fish for a living have a few simple rules.",
-   "start": 398.795,
-   "end": 402.451
+   "start": 399.473,
+   "end": 403.363
   },
   {
    "id": "w125",
    "text": "Keep everyone clear of the side where the fish is.",
-   "start": 402.696,
-   "end": 405.125
+   "start": 403.313,
+   "end": 406.243
   },
   {
    "id": "w126",
    "text": "Never put your body between the bill and the boat.",
-   "start": 405.575,
-   "end": 408.026
+   "start": 406.193,
+   "end": 409.083
   },
   {
    "id": "w127",
    "text": "Control the bill before anything else.",
-   "start": 408.458,
-   "end": 410.388
+   "start": 409.033,
+   "end": 411.443
   },
   {
    "id": "w128",
    "text": "And more and more, they don't bring the fish aboard at all.",
-   "start": 410.878,
-   "end": 413.586
+   "start": 411.393,
+   "end": 414.723
   },
   {
    "id": "w129",
    "text": "They tag it in the water, cut it loose, and let it go.",
-   "start": 414.093,
-   "end": 417.312
+   "start": 414.673,
+   "end": 418.582
   },
   {
    "id": "w130",
    "text": "Turns out the safest way to handle a sword is to leave it in the ocean.",
-   "start": 418.051,
-   "end": 423.025
+   "start": 418.532,
+   "end": 423.181
   },
   {
    "id": "w131",
    "text": "And now, the twist.",
-   "start": 423.402,
-   "end": 424.096
+   "start": 423.131,
+   "end": 425.062
   },
   {
    "id": "w132",
    "text": "Every story in this file is real.",
-   "start": 424.399,
-   "end": 426.529
+   "start": 425.012,
+   "end": 427.582
   },
   {
    "id": "w133",
    "text": "But spread them across the decades, and they add up to a handful of accidents.",
-   "start": 426.981,
-   "end": 431.589
+   "start": 427.532,
+   "end": 432.502
   },
   {
    "id": "w134",
    "text": "Rare enough that each one made the news around the world.",
-   "start": 431.841,
-   "end": 434.711
+   "start": 432.452,
+   "end": 436.081
   },
   {
    "id": "w135",
    "text": "The other side of the ledger looks very different.",
-   "start": 435.561,
-   "end": 438.238
+   "start": 436.031,
+   "end": 439.321
   },
   {
    "id": "w136",
    "text": "By the nineteen nineties, the North Atlantic swordfish was in serious trouble.",
-   "start": 438.778,
-   "end": 443.59
+   "start": 439.271,
+   "end": 444.801
   },
   {
    "id": "w137",
    "text": "Fishing fleets were catching them faster than they could breed, and more and more of the fish being landed were young ones that had never had the chance to reproduce.",
-   "start": 444.082,
-   "end": 452.97
+   "start": 444.751,
+   "end": 454.173
   },
   {
    "id": "w138",
    "text": "So something unusual happened.",
-   "start": 453.5,
-   "end": 455.346
+   "start": 454.123,
+   "end": 456.373
   },
   {
    "id": "w139",
    "text": "Countries actually agreed.",
-   "start": 455.614,
-   "end": 457.139
+   "start": 456.323,
+   "end": 458.093
   },
   {
    "id": "w140",
    "text": "Minimum sizes, so young fish were thrown back.",
-   "start": 457.366,
-   "end": 460.332
+   "start": 458.043,
+   "end": 461.373
   },
   {
    "id": "w141",
    "text": "Catch limits, and a rebuilding plan with a deadline.",
-   "start": 460.614,
-   "end": 463.499
+   "start": 461.323,
+   "end": 464.573
   },
   {
    "id": "w142",
    "text": "And it worked.",
-   "start": 463.741,
-   "end": 464.566
+   "start": 464.523,
+   "end": 465.453
   },
   {
    "id": "w143",
    "text": "In two thousand and nine, the international commission that manages these fish declared the North Atlantic swordfish stock rebuilt.",
-   "start": 464.812,
-   "end": 471.736
+   "start": 465.403,
+   "end": 472.919
   },
   {
    "id": "w144",
    "text": "A year ahead of schedule.",
-   "start": 472.303,
-   "end": 473.743
+   "start": 472.869,
+   "end": 474.519
   },
   {
    "id": "w145",
    "text": "In an ocean full of collapse stories, the swordfish is one of the rare comebacks.",
-   "start": 473.743,
-   "end": 478.697
+   "start": 474.469,
+   "end": 479.319
   },
   {
    "id": "w146",
    "text": "Not because it fought back with its sword.",
-   "start": 478.697,
-   "end": 481.426
+   "start": 479.269,
+   "end": 481.72
   },
   {
    "id": "w147",
    "text": "Because, for once, we put ours down.",
-   "start": 481.426,
-   "end": 483.6
+   "start": 481.67,
+   "end": 484.479
   },
   {
    "id": "w148",
    "text": "Back to nineteen sixty-seven.",
-   "start": 483.704,
-   "end": 485.411
+   "start": 484.429,
+   "end": 486.209
   },
   {
    "id": "w149",
    "text": "Alvin is back on deck, with a swordfish still stuck in its side.",
-   "start": 485.512,
-   "end": 489.441
+   "start": 486.509,
+   "end": 490.578
   },
   {
    "id": "w150",
    "text": "It took the crew about two hours to work the sword free.",
-   "start": 489.914,
-   "end": 492.698
+   "start": 490.527,
+   "end": 493.737
   },
   {
    "id": "w151",
    "text": "And then they did what sailors have always done with a big fish.",
-   "start": 493.178,
-   "end": 496.085
+   "start": 493.687,
+   "end": 497.217
   },
   {
    "id": "w152",
    "text": "They cooked it.",
-   "start": 496.499,
-   "end": 497.246
+   "start": 497.167,
+   "end": 498.337
   },
   {
    "id": "w153",
    "text": "More than fifty kilograms of swordfish, served for dinner.",
-   "start": 497.748,
-   "end": 500.907
+   "start": 498.287,
+   "end": 502.097
   },
   {
    "id": "w154",
    "text": "So in the only recorded fight between a swordfish and a submarine, the submarine won.",
-   "start": 501.211,
-   "end": 504.893
+   "start": 502.047,
+   "end": 507.537
   },
   {
    "id": "w155",
    "text": "And then it ate the evidence.",
-   "start": 505.298,
-   "end": 506.443
+   "start": 507.487,
+   "end": 509.71
   },
   {
    "id": "w156",
    "text": "That was Encounter File number two.",
-   "start": 506.993,
-   "end": 508.453
+   "start": 509.66,
+   "end": 512.11
   },
   {
    "id": "w157",
    "text": "And if you're wondering about the other fish, the one that may have struck that surfer in Indonesia, the one that flies at fishermen's lights at night... that file is already open.",
-   "start": 509.167,
-   "end": 519.611
+   "start": 512.06,
+   "end": 521.15
   },
   {
    "id": "w158",
    "text": "Tell me in the comments what you want after that.",
-   "start": 519.611,
-   "end": 522.814
+   "start": 521.1,
+   "end": 523.47
   },
   {
    "id": "w159",
    "text": "I read every single one.",
-   "start": 522.814,
-   "end": 524.527
+   "start": 523.42,
+   "end": 525.427
   }
  ]
 }
