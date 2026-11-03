@@ -145,7 +145,8 @@ export const E93: React.FC = () => {
         </>
       ) : (
         <>
-          <AbsoluteFill style={{background: '#02070b'}} />
+          <AbsoluteFill style={{background: `radial-gradient(circle at ${40 + Math.sin(f / 40) * 20}% ${50 + Math.cos(f / 50) * 15}%, #0b2233 0%, #02070b 65%)`}} />
+          <Snow n={70} dim={0.25} />
           <Panel x={220} y={260} w={640} at={off} title="OFFICIALS" color={C.amber}><div style={{fontFamily: HEAD, fontSize: 90, color: C.white}}>SWORDFISH?</div></Panel>
           {f > res && <Panel x={1060} y={260} w={640} at={res} title="THE RESORT" color={'#7fd1ff'}><div style={{fontFamily: HEAD, fontSize: 90, color: C.white}}>NEEDLEFISH?</div></Panel>}
           {f > un && <Stamp text="UNRESOLVED" at={un} x={960} y={720} color={C.red} rot={-5} size={90} />}
@@ -250,7 +251,10 @@ export const F124: React.FC = () => {
   const {f, at} = useShot();
   const items: [string, string][] = [['w125', 'CLEAR THE SIDE WITH THE FISH'], ['w126', 'NOTHING BETWEEN BILL AND BOAT'], ['w127', 'CONTROL THE BILL FIRST'], ['w128', 'TAG IT. RELEASE IT.']];
   return (
-    <Shot cam={{s: [1.0, 1.05]}} bg="#02070b" over={<Label text="WHAT CREWS ACTUALLY DO" at={4} color={C.sonar} />}>
+    <Shot cam={{s: [1.12, 1.0], x: [-40, 40]}} bg="#02070b" over={<Label text="WHAT CREWS ACTUALLY DO" at={4} color={C.sonar} />}>
+      <AbsoluteFill style={{background: `radial-gradient(circle at ${50 + Math.sin(f / 35) * 25}% 50%, #0b2a20 0%, #02070b 60%)`}} />
+      <Snow n={60} dim={0.2} />
+      {f < at('w125') + 6 && <div style={{opacity: 1 - appear(f, at('w125'), 6)}}><div style={{opacity: 0.35}}><Billfish kind="marlin" x={lerp(f, 0, at('w125'), 1500, 1100)} y={560} w={1300} phase={2} /></div><Headline text={<>A FEW <span style={{color: C.sonar}}>SIMPLE RULES.</span></>} at={6} size={120} y={420} /></div>}
       {items.map(([id, t], i) => {
         const a = at(id);
         return (

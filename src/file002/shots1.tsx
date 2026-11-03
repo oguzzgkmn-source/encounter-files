@@ -292,11 +292,11 @@ export const C53: React.FC = () => {
   const {f, at} = useShot();
   const front = at('w054');
   return (
-    <Shot cam={{s: [1.0, 1.0]}} over={f > front ? <Bracket x={480} y={540} w={420} h={160} at={front} label="THE FRONT" color={C.red} /> : null}>
+    <Shot cam={{s: [1.0, 1.18], x: [0, 120]}} over={f > front ? <Bracket x={480} y={540} w={420} h={160} at={front} label="THE FRONT" color={C.red} /> : null}>
       <Blue />
       <Snow n={80} dim={0.2} />
       <div style={{position: 'absolute', inset: 0, transform: `scale(${lerp(f, 0, front, 0.7, 1.0)})`}}>
-        <Swordfish x={lerp(f, 0, front + 20, 1700, 1100)} y={540} w={1500} phase={1} />
+        <Swordfish x={lerp(f, 0, front + 20, 1700, 1100) - Math.max(0, f - front - 20) * 1.5} y={540 + Math.sin(f / 18) * 12} w={1500} phase={1} />
       </div>
       <div style={{position: 'absolute', left: 120, top: 80, fontFamily: MONO, fontSize: 56, color: C.white, fontWeight: 700}}>~30 KM/H</div>
     </Shot>
