@@ -9,6 +9,7 @@ import {Thumb2} from './scenes/Thumb2';
 import {Opening, OPENING_FRAMES} from './opening/Opening';
 import {Pilot, PILOT_FRAMES} from './pilot/Pilot';
 import {F2Test, F2TEST_FRAMES} from './file002/Test';
+import {Episode002, F2_FRAMES} from './file002/Episode';
 
 const StyleReel: React.FC = () => (
   <Series>
@@ -31,6 +32,7 @@ export const Root: React.FC = () => (
     <Composition id="Pilot" component={Pilot} durationInFrames={PILOT_FRAMES} {...base} />
     <Composition id="Thumb2" component={Thumb2} durationInFrames={1} fps={30} width={1280} height={720} />
     <Composition id="F2Test" component={F2Test} durationInFrames={F2TEST_FRAMES} {...base} />
+    <Composition id="Episode002" component={Episode002} durationInFrames={F2_FRAMES} {...base} />
     <Composition id="Thumbnail" component={Thumbnail} durationInFrames={1} fps={30} width={1280} height={720} />
   </>
 );

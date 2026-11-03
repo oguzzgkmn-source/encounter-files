@@ -158,9 +158,10 @@ export const Counter: React.FC<{to: number; from?: number; at: number; len?: num
 };
 
 /* ---------- maps ---------- */
-type View = 'pacific' | 'baja';
+type View = 'pacific' | 'baja' | 'indopac' | 'atlantic';
 export const project = (view: View, lon: number, lat: number) => {
   const m: any = (maps as any)[view];
+  if (m.shift && lon < 0) lon += 360;
   const merc = Math.log(Math.tan(Math.PI / 4 + (lat * Math.PI) / 360));
   return {x: m.ox + m.s * (((lon - m.lon0) * Math.PI) / 180), y: m.H - (m.oy + m.s * (merc - m.y0))};
 };

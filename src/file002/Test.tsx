@@ -20,7 +20,7 @@ const Depth: React.FC<{v: number; color?: string}> = ({v, color = C.white}) => (
 );
 
 /* T1 — date card */
-const T1: React.FC = () => {
+export const T1: React.FC = () => {
   const {f} = useShot();
   const n = Math.floor(f * 1.2);
   const d = 'JULY 6, 1967';
@@ -34,7 +34,7 @@ const T1: React.FC = () => {
 };
 
 /* T2 — Alvin descending */
-const T2: React.FC = () => {
+export const T2: React.FC = () => {
   const {f, dur} = useShot();
   return (
     <Shot cam={{s: [1.0, 1.15], x: [0, -40]}} over={<><Depth v={lerp(f, 0, dur, 120, 610, Easing.out(Easing.quad))} /><Label text="DSV ALVIN · DIVE 202" at={10} /></>}>
@@ -49,7 +49,7 @@ const T2: React.FC = () => {
 };
 
 /* T3 — no light, no sound */
-const T3: React.FC = () => {
+export const T3: React.FC = () => {
   const {f} = useShot();
   return (
     <Shot cam={{s: [1.25, 1.1]}} bg="#000" over={
@@ -66,7 +66,7 @@ const T3: React.FC = () => {
 };
 
 /* T4 — sonar: a fast contact */
-const T4: React.FC = () => {
+export const T4: React.FC = () => {
   const {f, dur} = useShot();
   const R = 400;
   const p = lerp(f, 10, dur + 10, 0, 1, Easing.in(Easing.cubic));
@@ -87,7 +87,7 @@ const T4: React.FC = () => {
 };
 
 /* T5 — impact */
-const T5: React.FC = () => {
+export const T5: React.FC = () => {
   const {f} = useShot();
   const I = IMPACT_LOCAL;
   const fx = lerp(f, 0, I, 2350, 1227, Easing.in(Easing.quad));
@@ -114,7 +114,7 @@ const T5: React.FC = () => {
 };
 
 /* T6 — surface recovery */
-const T6: React.FC = () => {
+export const T6: React.FC = () => {
   const {f, dur} = useShot();
   const lift = lerp(f, 10, dur, 0, 1, Easing.inOut(Easing.cubic));
   return (
@@ -129,7 +129,7 @@ const T6: React.FC = () => {
 };
 
 /* T7 — the swordfish stuck in the hull */
-const T7: React.FC = () => {
+export const T7: React.FC = () => {
   const {f} = useShot();
   return (
     <Shot cam={{s: [1.05, 1.18], x: [0, -60], y: [0, -40]}} bg="#8cc4dd" over={<Bracket x={1300} y={830} w={440} h={380} at={14} label="CONTACT: XIPHIAS GLADIUS" color={C.red} />}>
@@ -141,9 +141,9 @@ const T7: React.FC = () => {
 };
 
 /* T8 — kinetic statement */
-const T8: React.FC = () => {
+export const T8: React.FC<{rid?: string}> = ({rid = 'o9'}) => {
   const {f, at} = useShot();
-  const r = at('o9');
+  const r = at(rid);
   return (
     <Shot cam={{s: [1.0, 1.08]}} bg="#02070b">
       <Headline text={<>A FISH <span style={{color: C.red}}>ATTACKED</span> A SUBMARINE.</>} at={2} size={110} y={330} />
@@ -154,7 +154,7 @@ const T8: React.FC = () => {
 };
 
 /* T9 — title */
-const T9: React.FC = () => {
+export const T9: React.FC = () => {
   const {f, dur} = useShot();
   const s1 = lerp(f, 4, 11, 1.6, 1, Easing.out(Easing.cubic));
   return (
